@@ -77,10 +77,10 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/saad-fareed/"><img src="https://img.shields.io/badge/-Saad%20Fareed-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:saadfareed632@gmail.com"><img src="https://img.shields.io/badge/-saadfareed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/saadfareed_sadi/"><img src="https://img.shields.io/badge/-@saadfareed-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/Saadfareed/"><img src="https://img.shields.io/badge/-/saadfareed-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.linkedin.com/in/syed-ghani-357ba4234/"><img src="https://img.shields.io/badge/-Syed%20Ghani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:syedghani001@gmail.com"><img src="https://img.shields.io/badge/-syedghani001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/syed_ghani_001?igshid=YmMyMTA2M2Y="><img src="https://img.shields.io/badge/-@syedghani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://leetcode.com/syedghani/"><img src="https://img.shields.io/badge/-/syedghani-e8b519?style=flat&logo=leetcode&logoColor=black"/></a>
  </p>
  
 <br>
