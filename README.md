@@ -38,9 +38,9 @@
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td> -->
  
-</tr>
+<!-- </tr>
  
-<tr>
+<tr> -->
 <!--     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
     </td>
@@ -54,9 +54,9 @@
     <td align='center'>
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/TensorFlow_Logo_with_text.png">
     </td> -->
-</tr>
+<!-- </tr>
  
-<tr>
+<tr> -->
 <!--     <td align='center'>
         <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
     </td>
