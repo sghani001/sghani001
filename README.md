@@ -41,6 +41,9 @@
 <td align='center' width="200">
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
 </td>
+<td align='center'>
+<img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
+</td>
 </tr>
 <tr>	
 <td align='center' width="200">
