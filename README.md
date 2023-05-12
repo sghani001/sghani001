@@ -19,7 +19,7 @@
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
 	
-
+![Syed Ghani](E:\Syed_Ghani.jpg)
 	
 <h2>Tech Stack</h2>
 
