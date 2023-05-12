@@ -21,6 +21,8 @@
  <h3>Syed Ghani!</h3>
  <ul>
  </ul>
+	
+	
 ![Syed Ghani](Syed_Ghani.jpg "Syed Ghani")
 	
 <h2>Tech Stack</h2>
