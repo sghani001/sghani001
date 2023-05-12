@@ -18,7 +18,7 @@
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
- <h3>Syed Ghani!</h3>
+ <h1>Syed Ghani!</h3>
  <ul>
  </ul>
 	
@@ -89,12 +89,12 @@
 
 | Project :octocat: | Issues :bug: | Open PRs :bell: | Closed PRs :fire: | Last Commit 🚩 |
 | ----------------- | ------------- | ---------------- | ------------------ | -------------- |
-| [**Leetcode Practice**](https://github.com/sghani001/Leetcode) | ![GitHub issues](https://img.shields.io/github/issues/sghani001/Leetcode?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/sghani001/Leetcode?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat) |
+| [**Leetcode Practice**](https://github.com/sghani001/Leetcode) | ![GitHub issues](https://img.shields.io/github/issues/sghani001/Leetcode?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/sghani001/Leetcode?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/sghani001/Leetcode?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/sghani001/Leetcode?color=blue&logo=github&style=flat) |
 | [**Github Profile**](https://github.com/saadfareed/saadfareed) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/saadfareed?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/saadfareed?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/saadfareed?color=blue&logo=github&style=flat) |
 | [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github) | ![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat) |
 | [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | ![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat) | ![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github) | ![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github) | ![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat) |
 
-[![@sadi's Holopin board](https://holopin.io/api/user/board?user=sadi)](https://holopin.io/@sadi)
+
 
 
 ## ⚡️Github Contributions
