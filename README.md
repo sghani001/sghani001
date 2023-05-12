@@ -140,3 +140,14 @@
 		
 ![](https://hit.yhype.me/github/profile?user_id=50300882)
 
+<h2 >🏆 GitHub Profile Trophy</h2>
+<p>
+<a href="https://github.com/sghani001">
+  <img src="https://github-profile-trophy.vercel.app/?username=sghani001&theme=matrix&column=8&margin-w=15&margin-h=15"/>
+
+</a>
+</p>
+<p align="center"> 
+  Views<br>
+  <img src="https://profile-counter.glitch.me/sghani001/count.svg" />
+</p>
