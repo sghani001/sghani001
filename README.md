@@ -19,8 +19,8 @@
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
  <h3>Syed Ghani!</h3>
-	<ul>
-	</ul>
+ <ul>
+ </ul>
 ![Syed Ghani](Syed_Ghani.jpg "Syed Ghani")
 	
 <h2>Tech Stack</h2>
