@@ -59,7 +59,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="80">
 </td>
 <td align='center' width="200">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" width="80">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg" width="80">
 </td>
 </tr>
 </table>
