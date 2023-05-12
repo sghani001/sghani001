@@ -122,7 +122,7 @@
 ## 🚀Github Metrics
 
 <p align="center">
-    <img width="625em" src="https://github.com/saadfareed/saadfareed/blob/main/github-metrics.svg" />
+    <img width="625em" src="https://github.com/sghani001/sghani001/blob/main/github-metrics.svg" />
 </p>
     
 ## 🐛Github Magic Game
