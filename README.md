@@ -9,7 +9,7 @@
   </p>
 
 
-  <h3>I'm a Python Developer, Teacher and Researcher!</h3>
+  <h3>I'm a Python Developer and Data Science Enthusiast!</h3>
   <ul>
     <li>🔭 I’m currently a Computer Science Student.</li>
     <li>🌱 I’m currently expanding my knowledge in Data Science.</li>
@@ -18,7 +18,7 @@
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
-	
+ <h3>Syed Ghani!</h3>
 ![Syed Ghani](Syed_Ghani.jpg "Syed Ghani")
 	
 <h2>Tech Stack</h2>
