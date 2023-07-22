@@ -23,7 +23,7 @@
  </ul>
 	
 	
-##![Syed Ghani](Syed_Ghani.jpg "Syed Ghani")
+
 	
 <h2>Tech Stack</h2>
 
