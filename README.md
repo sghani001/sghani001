@@ -18,9 +18,7 @@
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
   </ul>
- <h1>Syed Ghani!</h3>
- <ul>
- </ul>
+
 	
 	
 
