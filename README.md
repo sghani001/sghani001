@@ -17,12 +17,7 @@
     <li>📢 Love to teach and inspire students.</li>
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
     <li>💎 If you are a Tech boy/girl let's get connected</li>
-  </ul>
-
-	
-	
-
-	
+  </ul>	
 <h2>Tech Stack</h2>
 
 <table>
