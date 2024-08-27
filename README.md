@@ -11,8 +11,8 @@
 
   <h3>I'm a Python Developer and Data Science Enthusiast</h3>
   <ul>
-    <li>🔭 I’m currently a Computer Science Student.</li>
-    <li>🌱 I’m currently expanding my knowledge in Data Science.</li>
+    <li>🔭 I’m Graduate of Computer Science.</li>
+    <li>🌱 I’m currently expanding my knowledge in Web Development in Ruby on Rails</li>
     <li>👯 I’m looking to collaborate with other content creators and developers.</li>
     <li>📢 Love to teach and inspire students.</li>
     <li>🥅 2023-24 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.</li>
