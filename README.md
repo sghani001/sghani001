@@ -55,6 +55,11 @@
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg" width="80">
 </td>
 </tr>
+<tr>
+<td align='center' width="200">
+  <img src="https://www.pngwing.com/en/free-png-aqhzp#google_vignette" width="80">
+</td>
+</tr>
 </table>
 <p align="center">
   <a href="https://www.linkedin.com/in/syed-ghani-357ba4234/"><img src="https://img.shields.io/badge/-Syed%20Ghani-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
