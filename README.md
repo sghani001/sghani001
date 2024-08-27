@@ -57,7 +57,7 @@
 </tr>
 <tr>
 <td align='center' width="200">
-  <img src="https://www.pngwing.com/en/free-png-aqhzp#google_vignette" width="80">
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="80">
 </td>
 </tr>
 </table>
