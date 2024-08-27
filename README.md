@@ -32,7 +32,7 @@
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png">
 </td>
 <td align='center' width="200">
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
+<img src="https://www.ruby-lang.org/images/header-ruby-logo.png">
 </td>
 <td align='center' width="200">
 <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="80">
