@@ -23,7 +23,7 @@
 <table>
 <tr>
 <td align='center'>
-<img src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png"  width="100">
+<img src="https://logo.wine/a/logo/Ruby_on_Rails/Ruby_on_Rails-Logo.wine.svg"  width="100">
 </td>
 <td align='center'>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
