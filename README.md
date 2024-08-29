@@ -9,7 +9,7 @@
   </p>
 
 
-  <h3>I'm a Python Developer and Data Science Enthusiast</h3>
+  <h3>I'm a Web Developer and Data Science Enthusiast</h3>
   <ul>
     <li>🔭 I’m a Graduate of Computer Science</li>
     <li>🌱 I’m currently expanding my knowledge in Web Development in <strong>Ruby On Rails</strong>.</li>
