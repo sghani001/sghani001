@@ -45,7 +45,7 @@ I'm a Web Developer and Data Science Enthusiast
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sghani001&theme=gruvbox"/></td>
     <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=sghani001&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sghani001&theme=gruvbox"/></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sghani001&theme=gruvbox"/></td>
   </tr>
 </table>
 
