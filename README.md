@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Web+Developer;ROR;Computer+Scientist;Tech+Enthuist;Data+Scientist+Enthusiastic" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Software+Engineer;Ruby+On+Rails+Developer;React+JS+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,10 +17,10 @@
 
 ## 👨‍💻 About Me
 
-I'm a Web Developer and Data Science Enthusiast
+I'm a Software Engineer specializing in Ruby on Rails and React.js
 
 - 🔭 I'm a Graduate of Computer Science
-- 🌱 I'm currently expanding my knowledge in Web Development in **Ruby On Rails**
+- 🌱 I'm currently expanding my knowledge in **Ruby On Rails** and **React.js**
 - 👯 I'm looking to collaborate with other content creators and developers
 - 📢 Love to teach and inspire students
 - 🥅 2024-25 Goals: Contribute more to Open Source projects and Execute my Innovative ideas
