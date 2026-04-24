@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Software+Engineer;Ruby+On+Rails+Developer;React+JS+Developer" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=sans-serif+fonts&weight=800&size=24&duration=2000&pause=1000&color=F7CC18&center=true&vCenter=true&width=435&lines=Software+Engineer;Ruby+On+Rails+Developer;React+JS+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ I'm a Software Engineer specializing in Ruby on Rails and React.js
 
 ## 💻 Tech Stack:
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Sidekiq](https://img.shields.io/badge/Sidekiq-DC382D?style=for-the-badge&logo=sidekiq&logoColor=white) ![RSpec](https://img.shields.io/badge/RSpec-5C0D12?style=for-the-badge) ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -54,7 +54,7 @@ I'm a Software Engineer specializing in Ruby on Rails and React.js
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sghani001&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=sghani001&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -68,11 +68,40 @@ I'm a Software Engineer specializing in Ruby on Rails and React.js
 
 ---
 
-## 🔝 Top Contributed Repo
+## 🔝 Recent repositories
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sghani001&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
+Public work under [@sghani001](https://github.com/sghani001): every repo **sorted by last push** (newest first). Stars, primary language, and dates refresh from the GitHub API on a schedule—no manual edits.
+
+<!-- RECENT_REPOS_TABLE_START -->
+
+_**20** public repositories · sorted by **last push** (newest first) · auto-updated by GitHub Actions_
+
+| # | Repository | Language | Stars | Last push | Description |
+|--:|:-----------|:---------|------:|:----------|:------------|
+| 1 | [**human_capital_managment**](https://github.com/sghani001/human_capital_managment) | TypeScript | 0 | 2026-04-24 | — |
+| 2 | [**sghani001**](https://github.com/sghani001/sghani001) | — | 1 | 2026-04-24 | — |
+| 3 | [**hos-trip-planner**](https://github.com/sghani001/hos-trip-planner) | Python | 0 | 2026-04-15 | Django Test Project |
+| 4 | [**personal_portfolio**](https://github.com/sghani001/personal_portfolio) | JavaScript | 0 | 2026-02-22 | — |
+| 5 | [**Leetcode**](https://github.com/sghani001/Leetcode) | Ruby | 0 | 2026-02-22 | — |
+| 6 | [**Online_Exam_System**](https://github.com/sghani001/Online_Exam_System) | Ruby | 0 | 2024-08-27 | — |
+| 7 | [**Portfolio_new**](https://github.com/sghani001/Portfolio_new) | HTML | 0 | 2024-08-07 | — |
+| 8 | [**Rails_Meal_tracker**](https://github.com/sghani001/Rails_Meal_tracker) | Ruby | 0 | 2024-08-07 | — |
+| 9 | [**portfolio**](https://github.com/sghani001/portfolio) | HTML | 0 | 2024-02-18 | — |
+| 10 | [**SignUP_Form**](https://github.com/sghani001/SignUP_Form) | JavaScript | 0 | 2023-08-06 | — |
+| 11 | [**Javascript-practice**](https://github.com/sghani001/Javascript-practice) | JavaScript | 0 | 2023-07-26 | — |
+| 12 | [**javascripts-practice**](https://github.com/sghani001/javascripts-practice) | — | 0 | 2023-07-25 | — |
+| 13 | [**Whatsapp_Analyzer**](https://github.com/sghani001/Whatsapp_Analyzer) | Python | 0 | 2023-07-23 | Whatsapp Analyzer is made using python. Whatsapp Analyzer analyzes messages from a group chat as well as fr… |
+| 14 | [**css-practice**](https://github.com/sghani001/css-practice) | HTML | 0 | 2023-07-20 | — |
+| 15 | [**HTML-practice**](https://github.com/sghani001/HTML-practice) | HTML | 0 | 2023-07-19 | — |
+| 16 | [**Olympics**](https://github.com/sghani001/Olympics) | Python | 0 | 2023-05-25 | Olympics Analysis |
+| 17 | [**saadfareed**](https://github.com/sghani001/saadfareed) `fork` | — | 0 | 2023-05-12 | Saad Fareed Portfolio |
+| 18 | [**python-practice**](https://github.com/sghani001/python-practice) | — | 0 | 2023-04-13 | — |
+| 19 | [**Hello-world-Python**](https://github.com/sghani001/Hello-world-Python) | — | 0 | 2022-08-26 | — |
+| 20 | [**data-wrangling**](https://github.com/sghani001/data-wrangling) `fork` | — | 0 | 2020-04-12 | Codes related to data wrangling |
+
+<!-- RECENT_REPOS_TABLE_END -->
+
+_To include **private** repositories in this list, add a repository secret `PROFILE_README_TOKEN` (fine-scoped or classic PAT with **Contents** read on your repos) on [sghani001/sghani001](https://github.com/sghani001/sghani001)._
 
 ---
 
@@ -91,7 +120,7 @@ I'm a Software Engineer specializing in Ruby on Rails and React.js
 ## 🚀 Github Metrics
 
 <p align="center">
-  <img width="625em" src="https://github.com/sghani001/sghani001/blob/main/github-metrics.svg" />
+  <img width="625" src="https://raw.githubusercontent.com/sghani001/sghani001/main/github-metrics.svg" alt="GitHub metrics" />
 </p>
 
 ---
@@ -99,7 +128,7 @@ I'm a Software Engineer specializing in Ruby on Rails and React.js
 ## 🐛 Github Magic Game
 
 <p align="center">
-  <img src="https://github.com/sghani001/sghani001/raw/output/github-contribution-grid-snake.svg" alt="snake">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sghani001/sghani001/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -113,9 +142,7 @@ I'm a Software Engineer specializing in Ruby on Rails and React.js
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sghani001&icon=0&color=0" alt="Profile Views" />
-  <br/>
-  <img src="https://profile-counter.glitch.me/sghani001/count.svg" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=sghani001&label=Profile%20views&color=F7CC18&style=flat" alt="Profile views" />
 </div>
 
 ---
