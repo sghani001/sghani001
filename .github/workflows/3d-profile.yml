@@ -11,15 +11,21 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Fetch full history to avoid conflicts
+      
       - uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
+      
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v5  # Updated to v5
         with:
           commit-message: "Personal 3d Contributions images updated"
           title: "Personal 3d Contributions images updated"
           body: "This PR updates the 3D contribution profile images."
           branch: update-3d-contrib
+          base: main
+          delete-branch: true
