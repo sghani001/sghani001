@@ -16,10 +16,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
-      - name: Commit & Push
-        run: |
-          git config user.name sghani001
-          git config user.email 2020cs669@student.uet.edu.pk
-          git add -A .
-          git commit -m "Personal 3d Contributions images updated"
-          git push
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          commit-message: "Personal 3d Contributions images updated"
+          title: "Personal 3d Contributions images updated"
+          body: "This PR updates the 3D contribution profile images."
+          branch: update-3d-contrib
