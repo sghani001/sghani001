@@ -128,7 +128,7 @@ _To include **private** repositories in this list, add a repository secret `PROF
 ## 🐛 Github Magic Game
 
 <p align="center">
-  ![snake](https://github.com/sghani001/sghani001/blob/output/github-contribution-grid-snake.svg?raw=true)
+  <img alt="GitHub contribution grid snake animation" src="https://github.com/sghani001/sghani001/blob/output/github-contribution-grid-snake.svg?raw=true" />
 </p>
 
 ---
