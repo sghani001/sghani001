@@ -79,7 +79,7 @@ end
 
 **Frameworks**
 
-[![Frameworks](https://github-widgetbox.vercel.app/api/skills?frameworks=react,tailwind,django,rails&includeNames=true&theme=darkmode)](https://github.com/sghani001)
+[![My Frameworks](./skills.svg)](https://github.com/sghani001)
 
 </div>
 
