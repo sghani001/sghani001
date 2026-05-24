@@ -1,0 +1,124 @@
+<svg width="812" height="409" viewBox="0 0 812 409" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="card" x="0" y="0" width="812" height="409" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="5" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="card" transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#card)">
+        <rect id="card" data-name="card" width="782" height="379" rx="30" transform="translate(15 12)" fill="#18191A"/>
+    </g>
+    <g id="header-text" transform="translate(60 60)">
+        <text id="skills" fill="#E4E6EB" transform="translate(0 44)" font-size="42" font-family="Roboto-Medium, Roboto, sans-serif" font-weight="500">
+            <tspan x="0" y="0">Skills</tspan>
+        </text>
+        <text style="display:none" id="languages" transform="translate(0 90)" fill="#bfbfbf" font-size="24" font-family="Roboto-Regular, Roboto, sans-serif">
+            <tspan x="0" y="0">Languages</tspan>
+        </text>
+        <text style="display:block" id="frameworks" transform="translate(0 90)" fill="#bfbfbf" font-size="24" font-family="Roboto-Regular, Roboto, sans-serif">
+            <tspan x="0" y="0">Frameworks</tspan>
+        </text>
+        <text style="display:none" id="libraries" transform="translate(0 289)" fill="#bfbfbf" font-size="24" font-family="Roboto-Regular, Roboto, sans-serif">
+            <tspan x="0" y="0">Libraries</tspan>
+        </text>
+        <text style="display:none" id="tools" transform="translate(0 289)" fill="#bfbfbf" font-size="24" font-family="Roboto-Regular, Roboto, sans-serif">
+            <tspan x="0" y="0">Tools</tspan>
+        </text>
+        <text style="display:none" id="software" transform="translate(0 289)" fill="#bfbfbf" font-size="24" font-family="Roboto-Regular, Roboto, sans-serif">
+            <tspan x="0" y="0">Software</tspan>
+        </text>
+    </g>
+    
+    <g style="display:block" id="boxes" transform="translate(60 190)">
+        <defs>
+            <linearGradient id="linear-gradient2" x1="0.085" y1="0.941" x2="0.939" y2="0.123" gradientUnits="objectBoundingBox">
+                <stop offset="0" stop-color="#A9EEFF"/>
+                <stop offset="1" stop-color="#00ACD2"/>
+            </linearGradient>
+        </defs>
+        <rect id="gradient-box2" transform="translate(0 0)" data-name="gradient-box2" width="80" height="80" rx="20" fill="url(#linear-gradient2)"/>
+        <g transform="translate(22 24.249)">
+            <svg xmlns="http://www.w3.org/2000/svg" width="36" height="31.502" viewBox="0 0 36 31.502">
+                <path id="react-logo" data-name="react-logo" d="M29.4,12.459q-.57-.19-1.139-.359c.063-.26.12-.52.176-.78.865-4.191.3-7.559-1.624-8.67-1.849-1.062-4.866.042-7.917,2.7-.3.26-.6.534-.879.809-.19-.183-.387-.366-.584-.541-3.2-2.841-6.405-4.036-8.325-2.918C7.27,3.769,6.722,6.94,7.5,10.905c.077.394.162.78.26,1.174-.45.127-.893.267-1.308.415C2.693,13.8,0,15.848,0,17.972c0,2.194,2.869,4.395,6.771,5.73.316.105.633.211.956.3-.105.422-.2.837-.281,1.266-.738,3.9-.162,7,1.68,8.058,1.9,1.1,5.091-.028,8.2-2.749.246-.218.492-.443.738-.682.309.3.633.591.956.872C22.029,33.356,25,34.4,26.838,33.342c1.9-1.1,2.517-4.423,1.716-8.473q-.095-.464-.211-.949c.225-.063.443-.134.661-.2,4.057-1.343,7-3.516,7-5.745,0-2.13-2.77-4.2-6.6-5.512ZM19.891,6.49c2.616-2.278,5.055-3.171,6.166-2.531,1.188.682,1.645,3.438.9,7.059-.049.239-.1.471-.162.7a35.995,35.995,0,0,0-4.732-.745,35.525,35.525,0,0,0-3-3.734c.274-.26.541-.506.823-.752ZM11.756,21.621c.359.612.724,1.223,1.111,1.821A31.839,31.839,0,0,1,9.6,22.915a32.846,32.846,0,0,1,1.146-3.129c.323.619.654,1.23,1.005,1.835Zm-2.13-8.459c1.012-.225,2.088-.408,3.206-.548-.373.584-.738,1.181-1.083,1.786s-.682,1.209-1,1.828c-.443-1.048-.816-2.074-1.125-3.066Zm1.927,4.845c.464-.97.97-1.92,1.5-2.855s1.111-1.842,1.716-2.735c1.055-.077,2.13-.12,3.227-.12s2.18.042,3.227.12q.9,1.329,1.709,2.721t1.526,2.841q-.707,1.455-1.519,2.869c-.534.935-1.1,1.842-1.7,2.742-1.048.077-2.138.112-3.241.112s-2.173-.035-3.206-.1q-.918-1.339-1.73-2.742c-.541-.935-1.041-1.884-1.512-2.855Zm12.7,3.6c.359-.619.7-1.245,1.027-1.877a32.64,32.64,0,0,1,1.188,3.115,30.884,30.884,0,0,1-3.3.563C23.541,22.816,23.9,22.212,24.251,21.607Zm1.013-5.379c-.33-.619-.668-1.238-1.02-1.842s-.7-1.188-1.076-1.772a32.357,32.357,0,0,1,3.227.563,31.117,31.117,0,0,1-1.132,3.052Zm-7.249-7.91A30.876,30.876,0,0,1,20.1,10.835c-1.392-.063-2.791-.063-4.184,0C16.6,9.928,17.311,9.084,18.014,8.318ZM9.858,4.008c1.181-.689,3.8.3,6.567,2.742.176.155.352.323.534.492a35.723,35.723,0,0,0-3.016,3.734,37.064,37.064,0,0,0-4.725.731c-.091-.359-.169-.724-.246-1.09-.661-3.4-.225-5.97.886-6.609ZM8.135,22.542c-.3-.084-.584-.176-.872-.274a14.341,14.341,0,0,1-4.43-2.194,3.155,3.155,0,0,1-1.322-2.1c0-1.287,2.222-2.932,5.428-4.05.4-.141.809-.267,1.216-.387a37.388,37.388,0,0,0,1.723,4.472,38.434,38.434,0,0,0-1.744,4.535Zm8.2,6.891a12.869,12.869,0,0,1-3.966,2.482,3.112,3.112,0,0,1-2.482.091c-1.118-.647-1.582-3.129-.949-6.469.077-.394.162-.788.26-1.174a35.175,35.175,0,0,0,4.774.689,37.106,37.106,0,0,0,3.037,3.755C16.784,29.025,16.559,29.236,16.334,29.433Zm1.723-1.709c-.717-.773-1.434-1.631-2.13-2.552.675.028,1.371.042,2.074.042.724,0,1.434-.014,2.138-.049a30.322,30.322,0,0,1-2.081,2.559Zm9.19,2.109a3.125,3.125,0,0,1-1.16,2.2c-1.118.647-3.5-.2-6.075-2.4-.3-.253-.591-.527-.893-.809a34.783,34.783,0,0,0,2.967-3.769,34.662,34.662,0,0,0,4.8-.738c.07.288.134.577.19.858a12.817,12.817,0,0,1,.176,4.662Zm1.28-7.559c-.2.063-.394.127-.6.183a35.719,35.719,0,0,0-1.793-4.486,35.54,35.54,0,0,0,1.723-4.423c.366.105.717.218,1.055.33,3.277,1.125,5.576,2.8,5.576,4.078,0,1.378-2.454,3.157-5.962,4.317ZM18,21.22A3.22,3.22,0,1,0,14.78,18,3.22,3.22,0,0,0,18,21.22Z" transform="translate(0 -2.251)" fill="#fff"/>
+            </svg>
+        </g>
+        <g id="header-text" transform="translate(18.478 60)">
+            <text id="languages" fill="#00ACD2" transform="translate(0 44)" font-size="16" font-family="Roboto-Light, Roboto, sans-serif" font-weight="300">
+                <tspan x="0" y="0">React</tspan>
+            </text>
+        </g>
+
+        <defs>
+            <linearGradient id="linear-gradient12" x1="0.085" y1="0.941" x2="0.939" y2="0.123" gradientUnits="objectBoundingBox">
+                <stop offset="0" stop-color="#3AD5C5"/>
+                <stop offset="1" stop-color="#00ABD0"/>
+            </linearGradient>
+        </defs>
+        <rect id="gradient-box12" transform="translate(102 0)" data-name="gradient-box12" width="80" height="80" rx="20" fill="url(#linear-gradient12)"/>
+        <g transform="translate(120.723 27.234)">
+            <svg xmlns="http://www.w3.org/2000/svg" width="42.554" height="25.532" viewBox="0 0 42.554 25.532">
+                <path id="tailwind-logo" data-name="tailwind-logo" d="M21.277,0Q12.766,0,10.638,8.511q3.192-4.255,7.447-3.192c1.619.4,2.776,1.579,4.056,2.879,2.086,2.117,4.5,4.568,9.774,4.568q8.511,0,10.638-8.511-3.192,4.255-7.447,3.192c-1.619-.4-2.776-1.579-4.056-2.879C28.965,2.451,26.55,0,21.277,0ZM10.638,12.766Q2.128,12.766,0,21.277q3.192-4.255,7.447-3.192c1.619.4,2.776,1.579,4.056,2.879,2.086,2.117,4.5,4.568,9.774,4.568q8.511,0,10.638-8.511-3.192,4.255-7.447,3.192c-1.619-.4-2.776-1.579-4.056-2.879C18.326,15.217,15.912,12.766,10.638,12.766Z" fill="#fff"/>
+            </svg>
+        </g>
+        <g id="header-text" transform="translate(100.913 60)">
+            <text id="languages" fill="#00ABD0" transform="translate(0 44)" font-size="16" font-family="Roboto-Light, Roboto, sans-serif" font-weight="300">
+                <tspan x="0" y="0">TailwindCSS</tspan>
+            </text>
+        </g>
+
+        <defs>
+            <linearGradient id="linear-gradient22" x1="0.085" y1="0.941" x2="0.939" y2="0.123" gradientUnits="objectBoundingBox">
+                <stop offset="0" stop-color="#60F3B7"/>
+                <stop offset="1" stop-color="#29AA78"/>
+            </linearGradient>
+        </defs>
+        <rect id="gradient-box22" transform="translate(204 0)" data-name="gradient-box22" width="80" height="80" rx="20" fill="url(#linear-gradient22)"/>
+        <g transform="translate(230.029 22.0005)">
+            <svg xmlns="http://www.w3.org/2000/svg" width="27.942" height="35.999" viewBox="0 0 27.942 35.999">
+                <path id="django-logo" data-name="django-logo" d="M16.719,0H22.6V27.247a38.849,38.849,0,0,1-7.644.8c-7.187,0-10.932-3.249-10.932-9.48,0-6,3.975-9.9,10.13-9.9a9.4,9.4,0,0,1,2.561.306Zm0,13.715a5.841,5.841,0,0,0-1.988-.306c-2.982,0-4.7,1.835-4.7,5.046,0,3.135,1.644,4.854,4.663,4.854a13.581,13.581,0,0,0,2.025-.153V13.713ZM31.971,9.09V22.736c0,4.7-.344,6.957-1.375,8.906C29.64,33.514,28.379,34.7,25.779,36l-5.466-2.6c2.6-1.222,3.861-2.293,4.663-3.938.841-1.681,1.108-3.632,1.108-8.752V9.089h5.886ZM26.085.032h5.886V6.07H26.085Z" transform="translate(-4.029)" fill="#fff"/>
+            </svg>
+        </g>
+        <g id="header-text" transform="translate(219.217 60)">
+            <text id="languages" fill="#29AA78" transform="translate(0 44)" font-size="16" font-family="Roboto-Light, Roboto, sans-serif" font-weight="300">
+                <tspan x="0" y="0">Django</tspan>
+            </text>
+        </g>
+
+        <defs>
+            <linearGradient id="linear-gradient-rails" x1="0.085" y1="0.941" x2="0.939" y2="0.123" gradientUnits="objectBoundingBox">
+                <stop offset="0" stop-color="#FF6B6B"/>
+                <stop offset="1" stop-color="#CC0000"/>
+            </linearGradient>
+        </defs>
+        <rect id="gradient-box32" transform="translate(306 0)" data-name="gradient-box32" width="80" height="80" rx="20" fill="url(#linear-gradient-rails)"/>
+        <g transform="translate(329 22)">
+            <svg xmlns="http://www.w3.org/2000/svg" width="34" height="36" viewBox="0 0 24 24">
+                <path d="M12 .011c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm5.781 14.156c-.234.906-.719 1.453-1.422 1.578-.344.062-.75.047-1.141-.016-.484-.078-.969-.266-1.438-.563-.125.438-.328.844-.641 1.156-.469.453-1.094.688-1.781.688-.453 0-.891-.109-1.281-.313l-1.078.609c-.219.125-.469.188-.734.188-.422 0-.813-.156-1.125-.438-.547-.484-.797-1.203-.688-1.969.063-.484.25-1 .578-1.484l.047-.078c-.297-.484-.453-1.047-.422-1.625.047-1 .531-1.844 1.344-2.313.359-.203.766-.328 1.188-.359l1.109-.641c.203-.125.438-.188.688-.188.422 0 .813.172 1.109.469.484.484.688 1.172.578 1.875-.047.359-.188.75-.406 1.125.359.359.625.813.734 1.328.328-.203.734-.313 1.172-.313.344 0 .672.063.969.188.734.313 1.141.875 1.141 1.625 0 .047 0 .109-.016.156zm-7.672-.031c.141-.219.234-.484.281-.766-.094-.031-.188-.047-.297-.047-.563 0-1.047.313-1.25.797-.125.313-.156.625-.094.875.016.078.047.125.094.156l1.266-.719-.016-.296zm1.188 1.703c.297 0 .563-.109.781-.313.234-.234.375-.547.391-.891-.25-.156-.547-.25-.859-.266-.141.25-.344.469-.594.625-.188.109-.391.172-.594.203.078.297.234.516.484.609.125.031.25.033.391.033zm1.609-4.875c-.125.266-.188.547-.188.828.188.078.375.125.578.125.438 0 .828-.203 1.047-.563.141-.234.203-.5.172-.734-.016-.063-.047-.109-.094-.141l-1.344.766.029.281zm-1.844-1.469c-.297 0-.578.109-.797.313-.25.234-.391.563-.391.906.219.141.469.219.734.234.156-.25.375-.453.641-.594.156-.078.328-.141.5-.156-.063-.297-.219-.516-.484-.625-.062-.016-.14-.078-.203-.078zm3.875 4.547c0-.281-.141-.5-.406-.625-.141-.063-.313-.094-.484-.094-.313 0-.609.109-.844.313.125.234.188.516.172.797.188.109.391.172.609.172.484 0 .844-.25.938-.516.015-.015.015-.031.015-.047z" fill="#fff"/>
+            </svg>
+        </g>
+        <g id="header-text" transform="translate(328 60)">
+            <text id="languages" fill="#FF6B6B" transform="translate(0 44)" font-size="16" font-family="Roboto-Light, Roboto, sans-serif" font-weight="300">
+                <tspan x="0" y="0">Rails</tspan>
+            </text>
+        </g>
+    </g>
+
+    <g style="display:none" id="boxes" transform="translate(60 389)">
+        <defs>
+            <linearGradient id="linear-gradient3" x1="0.085" y1="0.941" x2="0.939" y2="0.123" gradientUnits="objectBoundingBox">
+                <stop offset="0" stop-color="#FFFFFF"/>
+                <stop offset="1" stop-color="#808080"/>
+            </linearGradient>
+        </defs>
+        <rect id="gradient-box3" transform="translate(0 0)" data-name="gradient-box3" width="80" height="80" rx="20" fill="url(#linear-gradient3)"/>
+        <g transform="translate(40.5 40.5)">undefined</g>
+        <g id="header-text" transform="translate(34.782 60)">
+            <text id="languages" fill="#808080" transform="translate(0 44)" font-size="16" font-family="Roboto-Light, Roboto, sans-serif" font-weight="300">
+                <tspan x="0" y="0"></tspan>
+            </text>
+        </g>
+    </g>
+</svg>
