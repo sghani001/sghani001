@@ -385,31 +385,30 @@ end
 
 ## 🤝 Open to &nbsp;·&nbsp; 💬 Quote &nbsp;·&nbsp; 📫 Contact
 
-<table width="100%" border="0" cellspacing="0" cellpadding="16">
+<table width="100%" style="width: 100%; table-layout: fixed;">
 <tr>
 
-<td width="33%" valign="top">
-
-**🤝 Open to**
-
-- Remote roles worldwide
-- Lahore on-site / hybrid
-- Freelance SaaS projects
-- Open-source collaboration
-
-</td>
-
-<td width="34%" align="center" valign="middle">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="220" alt="Dev Quote"/>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-**📫 Contact**
-
+<td width="35%" valign="top" align="left">
 <br/>
+
+### 🤝 Open to
+
+- **Remote roles** worldwide
+- **Lahore** on-site / hybrid
+- **Freelance** SaaS projects
+- **Open-source** collaboration
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="100%" style="max-width: 240px;" alt="Dev Quote"/>
+
+</td>
+
+<td width="30%" valign="top" align="center">
+<br/>
+
+### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/syed-m-ghani-357ba4234)
 
@@ -425,7 +424,6 @@ end
 
 </tr>
 </table>
-
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1de9b6,100:0a0e1a&height=120&section=footer" width="100%"/>
 
