@@ -145,7 +145,6 @@ end
 
 ## 📊 GitHub Stats
 
-<!-- Live profile widget from WidgetBox -->
 <div align="center">
 
 [![Profile](https://github-widgetbox.vercel.app/api/profile?username=sghani001&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/sghani001)
@@ -154,27 +153,22 @@ end
 
 <br/>
 
-<!-- Two stat cards side by side -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sghani001&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=1de9b6&icon_color=FFA116&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=sghani001&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=1de9b6&icon_color=FFA116&text_color=c9d1d9&bg_color=0f141c&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="165" src="https://streak-stats.demolab.com/?user=sghani001&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&ring=1de9b6&fire=FFA116&currStreakLabel=1de9b6&sideLabels=1de9b6&background=0d1117" alt="Streak Stats"/>
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=sghani001&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&ring=1de9b6&fire=FFA116&currStreakLabel=1de9b6&sideLabels=1de9b6&background=0f141c" alt="Streak Stats"/>
 
 </div>
 
 <br/>
 
-<!-- Top langs + productive time cards -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sghani001&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=1de9b6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages"/>
-&nbsp;
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sghani001&theme=github_dark&utcOffset=5" alt="Productive Time"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sghani001&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=1de9b6&text_color=c9d1d9&bg_color=0f141c&langs_count=8" alt="Top Languages"/>
 
 </div>
 
-<!-- ANIMATED DIVIDER -->
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](#)
 
 ## ⚡ Contribution Activity
