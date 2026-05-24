@@ -348,15 +348,23 @@ end
 
 <br/>
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Featured Project</h3>
+      <a href="https://github.com/sghani001/Online_Exam_System"><b>Online_Exam_System</b></a>
+      <p>Multi-role RBAC examinations suite built entirely using Ruby on Rails, Devise, Pundit, and RSpec testing suites.</p>
+      <code>Ruby</code> &nbsp; <code>Rails</code> &nbsp; <code>RSpec</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Data & Analytics</h3>
+      <a href="https://github.com/sghani001/Whatsapp_Analyzer"><b>Whatsapp_Analyzer</b></a>
+      <p>Python data parsing tool that turns raw WhatsApp exports into comprehensive analytic graphs, clouds, and metrics.</p>
+      <code>Python</code> &nbsp; <code>Pandas</code> &nbsp; <code>Matplotlib</code>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sghani001&repo=Online_Exam_System&theme=github_dark&hide_border=true&border_radius=16&title_color=1de9b6&icon_color=FFA116&bg_color=0d1117" alt="Online Exam System"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sghani001&repo=Whatsapp_Analyzer&theme=github_dark&hide_border=true&border_radius=16&title_color=1de9b6&icon_color=FFA116&bg_color=0d1117" alt="WhatsApp Analyzer"/>
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
 
 ## 🏆 Achievements
