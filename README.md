@@ -318,6 +318,12 @@ end
 
 ## 🎯 Projects
 
+**🌐 [Personal Portfolio](https://syedghani.is-a.dev/)** &nbsp;·&nbsp; `React.js · TailwindCSS · Framer Motion` &nbsp;·&nbsp; *[Live Site](https://syedghani.is-a.dev/)*
+
+> My premier frontend deployment featuring an interactive, fully responsive modern portfolio. Built with slick user experiences, modular React components, and optimized performance to showcase my engineering journey.
+
+<br/>
+
 **🧠 Urdu Signify** &nbsp;·&nbsp; `Python · GANs · NLP` &nbsp;·&nbsp; *Final Year Project — UET Lahore*
 
 > Converts Urdu text to Pakistan Sign Language video animations using GANs + NLP. Real social impact for Pakistan's deaf community. Presented to UET faculty panel.
@@ -351,22 +357,21 @@ end
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Featured Project</h3>
+      <h3>🌐 Featured Frontend</h3>
+      <a href="https://syedghani.is-a.dev/"><b>personal_portfolio</b></a>
+      <p>My flagship frontend web development showcase. Highly polished, fully responsive, and animated UI displaying full-stack software engineering milestones.</p>
+      <code>React.js</code> &nbsp; <code>TailwindCSS</code> &nbsp; <code>Framer Motion</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 Backend Architecture</h3>
       <a href="https://github.com/sghani001/Online_Exam_System"><b>Online_Exam_System</b></a>
       <p>Multi-role RBAC examinations suite built entirely using Ruby on Rails, Devise, Pundit, and RSpec testing suites.</p>
       <code>Ruby</code> &nbsp; <code>Rails</code> &nbsp; <code>RSpec</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📈 Data & Analytics</h3>
-      <a href="https://github.com/sghani001/Whatsapp_Analyzer"><b>Whatsapp_Analyzer</b></a>
-      <p>Python data parsing tool that turns raw WhatsApp exports into comprehensive analytic graphs, clouds, and metrics.</p>
-      <code>Python</code> &nbsp; <code>Pandas</code> &nbsp; <code>Matplotlib</code>
     </td>
   </tr>
 </table>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
-
 ## 🏆 Achievements
 
 <div align="center">
