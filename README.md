@@ -376,7 +376,7 @@ end
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sghani001&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/sghani001)
+[![Trophies](./trophy.svg)](https://github.com/sghani001)
 
 </div>
 
