@@ -50,6 +50,7 @@ class SyedGhani
     frontend:     ["React.js", "Redux Toolkit", "TailwindCSS", "React Query", "Vite", "JavaScript ES6+"],
     payments:     ["Stripe", "Paddle", "Chargebee"],
     integrations: ["HubSpot CRM", "Moodle LMS (SSO/LTI)", "Documenso (e-signatures)"],
+    open_source:  ["rails-persona 🎭 — Active behavioral analytics gem on RubyGems"],
     rails_gems:   ["Devise", "Pundit", "Kaminari", "ActiveAdmin", "ActiveStorage", "Sidekiq"],
     learning:     ["Python 🐍", "Django", "AI Automation ✦ Backend Tools"]
   }
@@ -356,22 +357,29 @@ end
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 Featured Frontend</h3>
-      <a href="https://syedghani.is-a.dev/"><b>personal_portfolio</b></a>
-      <p>My flagship frontend web development showcase. Highly polished, fully responsive, and animated UI displaying full-stack software engineering milestones.</p>
-      <code>React.js</code> &nbsp; <code>TailwindCSS</code> &nbsp; <code>Framer Motion</code>
+    <td width="33%" valign="top">
+      <h3>🎭 Open Source Gem</h3>
+      <a href="https://github.com/sghani001/rails-persona"><b>rails-persona</b></a>
+      <p>Model-level behavioral analytics for Rails. Track user actions, query inactivity, and build engagement leaderboards natively in your DB with zero external dependencies.</p>
+      <code>Ruby</code> &nbsp; <code>Rails</code> &nbsp; <code>RubyGems</code>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>🚀 Backend Architecture</h3>
       <a href="https://github.com/sghani001/Online_Exam_System"><b>Online_Exam_System</b></a>
-      <p>Multi-role RBAC examinations suite built entirely using Ruby on Rails, Devise, Pundit, and RSpec testing suites.</p>
-      <code>Ruby</code> &nbsp; <code>Rails</code> &nbsp; <code>RSpec</code>
+      <p>Robust multi-role RBAC examinations suite utilizing clean Rails design patterns, Devise, Pundit, and complete RSpec test coverages.</p>
+      <code>Ruby on Rails</code> &nbsp; <code>RSpec</code>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🌐 Featured Frontend</h3>
+      <a href="https://syedghani.is-a.dev/"><b>personal_portfolio</b></a>
+      <p>Flagship React application showcasing interactive UI milestones. Polished UX built with Framer Motion and optimized for speed.</p>
+      <code>React.js</code> &nbsp; <code>TailwindCSS</code>
     </td>
   </tr>
 </table>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -382,6 +390,19 @@ end
 
 <!-- ANIMATED DIVIDER -->
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
+
+
+## 📦 Open Source Contributions
+
+### 🎭 [rails-persona](https://github.com/sghani001/rails-persona) 
+[![Gem Version](https://img.shields.io/gem/v/rails-persona.svg?style=flat-square&color=1de9b6)](https://rubygems.org/gems/rails-persona)
+[![Gem Downloads](https://img.shields.io/gem/dt/rails-persona.svg?style=flat-square&color=FFA116)](https://rubygems.org/gems/rails-persona)
+
+> **Lightweight behavioral analytics engine for Ruby on Rails apps.** Track user activity, query onboarding friction, generate daily usage patterns, and build engagement leaderboards—all stored natively in your database. 
+
+* **Zero External Services:** Keeps multi-tenant data internal, secure, and compliant.
+* **Asynchronous Execution:** Drop-in **Sidekiq** support to ensure high performance with zero request-cycle blocking.
+* **Optimized Storage:** Leverages bulk database inserts to manage intense analytics payloads effortlessly.
 
 ## 🤝 Open to &nbsp;·&nbsp; 💬 Quote &nbsp;·&nbsp; 📫 Contact
 
