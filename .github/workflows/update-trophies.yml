@@ -14,6 +14,14 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # Clean up any accidental directory conflicts before running
+      - name: Clear Conflicting Paths
+        run: |
+          if [ -d "trophy.svg" ]; then
+            echo "Removing conflicting trophy.svg directory..."
+            rm -rf trophy.svg
+          fi
+
       - name: Generate Trophies
         uses: ryo-ma/github-profile-trophy@master
         with:
@@ -22,11 +30,16 @@ jobs:
           output_path: trophy.svg
           theme: nord
 
-      # The ryo-ma action outputs the SVG, now we commit it to your profile repo
       - name: Commit and Push SVG
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Force remove directory from git tracking if it was accidentally committed
+          if git ls-files --stage trophy.svg | grep -q "160000\|040000"; then
+            git rm -r --cached trophy.svg
+          fi
+
           git add trophy.svg
           git diff-index --quiet HEAD || git commit -m "chore: update profile trophies"
           git push
