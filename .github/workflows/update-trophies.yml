@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Trophies
-        uses: soulteary/profile-trophy-action@v1.0.3
+        uses: teoxoy/profile-trophy-action@v1.3.1
         with:
           username: sghani001
           theme: nord
@@ -24,6 +24,9 @@ jobs:
           margin-w: 8
           column: 4
           file-name: trophy.svg
+        env:
+          # Required to bypass GitHub's API rate limits
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push SVG
         run: |
