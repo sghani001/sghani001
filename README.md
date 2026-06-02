@@ -66,78 +66,34 @@ end
 
 ## 🛠 Tech Stack
 
-<!-- SECTION 1: Languages via WidgetBox (verified supported list only) -->
 <div align="center">
 
-**Languages**
+**Languages & Frameworks**  
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?logo=rubyonrails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 
-[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=ruby,python,javascript,html,css,postgresql,bash&includeNames=true&theme=darkmode)](https://github.com/sghani001)
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-</div>
-
-<!-- SECTION 2: Frameworks via WidgetBox (only confirmed supported: react, tailwind, django — NOT rails, NOT redux) -->
-<div align="center">
-
-**Frameworks**
-
-[![My Frameworks](./skills.svg)](https://github.com/sghani001)
-
-</div>
-
-<!-- SECTION 3: Tools via WidgetBox (confirmed supported list) -->
-<div align="center">
-
-**Tools**
-
-[![Tools](https://github-widgetbox.vercel.app/api/skills?tools=git,redis,heroku,npm,vercel&includeNames=true&theme=darkmode)](https://github.com/sghani001)
-
-</div>
-
-<!-- SECTION 4: Software via WidgetBox -->
-<div align="center">
-
-**Software & IDE**
-
-[![Software](https://github-widgetbox.vercel.app/api/skills?software=vscode,linux,windows&includeNames=true&theme=darkmode)](https://github.com/sghani001)
-
-</div>
-
-<!-- SECTION 5: Full icon grid — devicons only, raw.githubusercontent for reliability -->
-<!-- Rails & Redux shown here since WidgetBox doesn't support them -->
-<div align="center">
-
-**Full Stack at a Glance**
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" title="Ruby"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" title="Ruby on Rails"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" title="Redux"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" title="TailwindCSS"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" title="Redis"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" title="Django"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40" title="Heroku"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
-
-<br/><br/>
-
-<!-- Integrations & payment tools that have no devicon — use shields badges -->
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Sidekiq](https://img.shields.io/badge/Sidekiq-DC382D?style=flat-square&logo=ruby&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot_CRM-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Paddle](https://img.shields.io/badge/Paddle-003C3C?style=flat-square&logoColor=white)
-![Chargebee](https://img.shields.io/badge/Chargebee-FF6633?style=flat-square&logoColor=white)
-![Moodle](https://img.shields.io/badge/Moodle_LMS-F98012?style=flat-square&logo=moodle&logoColor=white)
-![Documenso](https://img.shields.io/badge/Documenso-000000?style=flat-square&logoColor=white)
-![RSpec](https://img.shields.io/badge/RSpec-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+**Integrations & Payments**  
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![Paddle](https://img.shields.io/badge/Paddle-003C3C?logoColor=white)
+![Chargebee](https://img.shields.io/badge/Chargebee-FF6633?logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-F98012?logo=moodle&logoColor=white)
+![Documenso](https://img.shields.io/badge/Documenso-000000?logoColor=white)
 
 </div>
 
