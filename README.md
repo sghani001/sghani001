@@ -174,13 +174,18 @@ end
 
 ## ⚡ Contribution Activity
 
+<!-- 3D CONTRIBUTION PROFILE -->
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/sghani001/sghani001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Syed Ghani 3D Contributions" width="100%"/>
+</div>
+
+<br/><br/>
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sghani001&theme=github_dark" width="100%" alt="Contribution Summary"/>
 
 <br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sghani001&theme=react-dark&bg_color=0d1117&color=1de9b6&line=1de9b6&point=FFA116&area=true&area_color=1de9b6&hide_border=true&radius=16&custom_title=Contribution%20Activity)](https://github.com/sghani001)
 
 </div>
 
