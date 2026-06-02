@@ -137,11 +137,6 @@ end
 </div>
 
 <br/><br/>
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sghani001&theme=github_dark" width="100%" alt="Contribution Summary"/>
-
-<br/><br/>
 
 <!-- GITHUB SNAKE GAME ANIMATION -->
 <div align="center">
@@ -187,46 +182,6 @@ end
 ![Divide & Conquer](https://img.shields.io/badge/◉_Divide_%26_Conquer-0891b2?style=flat-square)
 
 </div>
-
-<details>
-<summary><b>📋 Solutions List</b></summary>
-<br/>
-
-| # | Problem | Lang | Difficulty |
-|--:|---------|:----:|:---:|
-| 1 | [Two Sum](https://github.com/sghani001/Leetcode/blob/main/2._Two_sum.py) | 🐍 | 🟢 |
-| 2 | [Add Two Numbers](https://github.com/sghani001/Leetcode/blob/main/2._Add_Two%20_Num.py) | 🐍 | 🟡 |
-| 3 | [Longest Substring Without Repeating Chars](https://github.com/sghani001/Leetcode/blob/main/003_longest_substring_without_repeating_characters.rb) | 💎 | 🟡 |
-| 4 | [Median of Two Sorted Arrays](https://github.com/sghani001/Leetcode/blob/main/004_median_of_two_sorted_arrays.rb) | 💎 | 🔴 |
-| 4 | [Median of Two Sorted Arrays](https://github.com/sghani001/Leetcode/blob/main/4._Median_of_Two_Sorted_Arrays.py) | 🐍 | 🔴 |
-| 5 | [Longest Palindromic Substring](https://github.com/sghani001/Leetcode/blob/main/005_longest_palindromic_substring.rb) | 💎 | 🟡 |
-| 6 | [Zigzag Conversion](https://github.com/sghani001/Leetcode/blob/main/006_zigzag_conversion.rb) | 💎 | 🟡 |
-| 7 | [Reverse Integer](https://github.com/sghani001/Leetcode/blob/main/007_reverse_integer.rb) | 💎 | 🟡 |
-| 8 | [String to Integer (atoi)](https://github.com/sghani001/Leetcode/blob/main/008_string_to_integer_atoi.rb) | 💎 | 🟡 |
-| 9 | [Palindrome Number](https://github.com/sghani001/Leetcode/blob/main/9._Palindrome_Number.py) | 🐍 | 🟢 |
-| 10 | [Regular Expression Matching](https://github.com/sghani001/Leetcode/blob/main/010_regular_expression_matching.rb) | 💎 | 🔴 |
-| 11 | [Container With Most Water](https://github.com/sghani001/Leetcode/blob/main/11.%20Container%20With%20Most%20Water.py) | 🐍 | 🟡 |
-| 12 | [Integer to Roman](https://github.com/sghani001/Leetcode/blob/main/012_integer_to_roman.rb) | 💎 | 🟡 |
-| 13 | [Roman to Integer](https://github.com/sghani001/Leetcode/blob/main/13.%20Roman%20to%20Integer.py) | 🐍 | 🟢 |
-| 14 | [Longest Common Prefix](https://github.com/sghani001/Leetcode/blob/main/14.%20Longest%20Common%20Prefix.py) | 🐍 | 🟢 |
-| 15 | [3Sum](https://github.com/sghani001/Leetcode/blob/main/15.%203Sum.py) | 🐍 | 🟡 |
-| 16 | [3Sum Closest](https://github.com/sghani001/Leetcode/blob/main/016_3sum_closest.rb) | 💎 | 🟡 |
-| 17 | [Letter Combinations](https://github.com/sghani001/Leetcode/blob/main/017_letter_combinations.rb) | 💎 | 🟡 |
-| 20 | [Valid Parentheses](https://github.com/sghani001/Leetcode/blob/main/20.%20Valid%20Parentheses.py) | 🐍 | 🟢 |
-| 21 | [Merge Two Sorted Lists](https://github.com/sghani001/Leetcode/blob/main/21.%20Merge%20Two%20Sorted%20Lists.py) | 🐍 | 🟢 |
-| 23 | [Merge K Sorted Lists](https://github.com/sghani001/Leetcode/blob/main/023_merge_k_sorted_lists.rb) | 💎 | 🔴 |
-| 25 | [Reverse Nodes in K-Group](https://github.com/sghani001/Leetcode/blob/main/025_reverse_nodes_in_k_group.rb) | 💎 | 🔴 |
-| 26 | [Remove Duplicates from Sorted Array](https://github.com/sghani001/Leetcode/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) | 🐍 | 🟢 |
-| 27 | [Remove Element](https://github.com/sghani001/Leetcode/blob/main/27.%20Remove%20Element.py) | 🐍 | 🟢 |
-| 28 | [Find Index of First Occurrence](https://github.com/sghani001/Leetcode/blob/main/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.py) | 🐍 | 🟢 |
-| 30 | [Substring with Concatenation of All Words](https://github.com/sghani001/Leetcode/blob/main/030_substring_with_concatenation_of_all_words.rb) | 💎 | 🔴 |
-| 66 | [Plus One](https://github.com/sghani001/Leetcode/blob/main/066_plus_one.rb) | 💎 | 🟢 |
-| 88 | [Merge Sorted Array](https://github.com/sghani001/Leetcode/blob/main/088_merge_sorted_array.rb) | 💎 | 🟢 |
-| 136 | [Single Number](https://github.com/sghani001/Leetcode/blob/main/136_single_number.rb) | 💎 | 🟢 |
-
-> 💎 Ruby · 🐍 Python · [→ Full Repo](https://github.com/sghani001/Leetcode)
-
-</details>
 
 <!-- ANIMATED DIVIDER -->
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
