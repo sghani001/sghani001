@@ -186,12 +186,16 @@ end
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sghani001&theme=github_dark" width="100%" alt="Contribution Summary"/>
 
 <br/><br/>
+
 <!-- GITHUB SNAKE GAME ANIMATION -->
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/sghani001/sghani001/main/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Animation (Dark)" width="100%">
-  <img src="https://raw.githubusercontent.com/sghani001/sghani001/main/dist/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake Animation (Light)" width="100%">
+  <img src="https://raw.githubusercontent.com/sghani001/sghani001/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Animation (Dark)" width="100%">
+  <img src="https://raw.githubusercontent.com/sghani001/sghani001/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake Animation (Light)" width="100%">
 </div>
+
+<br/>
+
 </div>
 
 <!-- ANIMATED DIVIDER -->
