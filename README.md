@@ -338,19 +338,6 @@ end
 <!-- ANIMATED DIVIDER -->
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
 
-
-## 📦 Open Source Contributions
-
-### 🎭 [rails-persona](https://github.com/sghani001/rails-persona) 
-[![Gem Version](https://img.shields.io/gem/v/rails-persona.svg?style=flat-square&color=1de9b6)](https://rubygems.org/gems/rails-persona)
-[![Gem Downloads](https://img.shields.io/gem/dt/rails-persona.svg?style=flat-square&color=FFA116)](https://rubygems.org/gems/rails-persona)
-
-> **Lightweight behavioral analytics engine for Ruby on Rails apps.** Track user activity, query onboarding friction, generate daily usage patterns, and build engagement leaderboards—all stored natively in your database. 
-
-* **Zero External Services:** Keeps multi-tenant data internal, secure, and compliant.
-* **Asynchronous Execution:** Drop-in **Sidekiq** support to ensure high performance with zero request-cycle blocking.
-* **Optimized Storage:** Leverages bulk database inserts to manage intense analytics payloads effortlessly.
-
 ## 🤝 Open to &nbsp;·&nbsp; 💬 Quote &nbsp;·&nbsp; 📫 Contact
 
 <table width="100%" style="width: 100%; table-layout: fixed;">
