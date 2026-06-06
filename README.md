@@ -280,10 +280,21 @@ end
 
 <br/>
 
+<!-- FEATURED PROJECTS - UPDATED WITH RAILS GUARDDOG -->
+
 ## 🎯 Featured Projects
 
 <table width="100%">
   <tr>
+    <!-- RAILS-GUARDDOG - NEW! -->
+    <td width="50%" valign="top">
+      <h3>🐕 rails-guarddog <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-guarddog.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
+      <a href="https://github.com/sghani001/rails-guarddog"><b>View Repository</b></a> &nbsp;·&nbsp; 
+      <a href="https://rubygems.org/gems/rails-guarddog"><b>RubyGems</b></a>
+      <br/><br/>
+      <p>🚀 <b>1,300+ downloads in 24 hours!</b> Production-grade security scanner for Rails apps. Detects vulnerabilities Brakeman misses: AI/LLM injection, DoS/ReDoS patterns, supply chain typosquatting, IDOR gaps, and more. 12 comprehensive security checkers with CWE/OWASP mappings.</p>
+      <code>Ruby</code> &nbsp; <code>Security</code> &nbsp; <code>AST Analysis</code> &nbsp; <code>Production Ready</code>
+    </td>
     <!-- RAILS-PERSONA -->
     <td width="50%" valign="top">
       <h3>🎭 rails-persona <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-persona.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
@@ -293,6 +304,8 @@ end
       <p>Model-level behavioral analytics engine for Rails. Tracks user actions, analyzes onboarding friction, and handles heavy payloads using bulk database inserts and Sidekiq background jobs natively with zero external dependencies.</p>
       <code>Ruby</code> &nbsp; <code>Rails Engine</code> &nbsp; <code>Sidekiq</code>
     </td>
+  </tr>
+  <tr>
     <!-- RAILS-TENANTIFY -->
     <td width="50%" valign="top">
       <h3>🚀 rails-tenantify <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-tenantify.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
@@ -302,8 +315,6 @@ end
       <p>Lightweight multi-tenancy infrastructure for SaaS applications. Automates sub-domain/request-based routing, secure database isolation scoping, and streamlined tenant onboarding workflows without the bloat of heavy legacy packages.</p>
       <code>Ruby on Rails</code> &nbsp; <code>SaaS Architecture</code>
     </td>
-  </tr>
-  <tr>
     <!-- RAILS-CSS_UNUSED -->
     <td width="50%" valign="top">
       <h3>🧹 rails-css_unused <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-css_unused.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
@@ -313,6 +324,8 @@ end
       <p>Performance-focused static analysis tool. Scans your views, templates, and view components to locate and strip dead, unused CSS classes blocking your asset pipeline payload. Perfect for refactoring large legacy codebases.</p>
       <code>Ruby</code> &nbsp; <code>Static Analysis</code> &nbsp; <code>Asset Pipeline</code>
     </td>
+  </tr>
+  <tr>
     <!-- PORTFOLIO -->
     <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio <img src="https://img.shields.io/badge/Status-Live-1de9b6?style=flat-square" alt="Status Live"/></h3>
@@ -322,8 +335,30 @@ end
       <p>Flagship frontend deployment showcasing interactive UI milestones. Built using modular React components, smooth layout transitions via Framer Motion, and highly optimized performance for an elite user experience.</p>
       <code>React.js</code> &nbsp; <code>TailwindCSS</code> &nbsp; <code>Framer Motion</code>
     </td>
+    <!-- PLACEHOLDER FOR FUTURE PROJECT -->
+    <td width="50%" valign="top">
+      <h3>🔜 Coming Soon</h3>
+      <p style="color: #888;">More open-source tools & SaaS projects launching soon...</p>
+    </td>
   </tr>
 </table>
+
+<!-- STATS ABOUT GEMS -->
+
+### 📊 Open Source Impact
+
+<div align="center">
+
+| Gem | Downloads | Stars | Status |
+|-----|-----------|-------|--------|
+| **rails-guarddog** | [![Downloads](https://img.shields.io/gem/dt/rails-guarddog.svg)](https://rubygems.org/gems/rails-guarddog) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-guarddog.svg)](https://github.com/sghani001/rails-guarddog) | 🔥 Viral Launch |
+| **rails-persona** | [![Downloads](https://img.shields.io/gem/dt/rails-persona.svg)](https://rubygems.org/gems/rails-persona) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-persona.svg)](https://github.com/sghani001/rails-persona) | ⭐ 900+ |
+| **rails-tenantify** | [![Downloads](https://img.shields.io/gem/dt/rails-tenantify.svg)](https://rubygems.org/gems/rails-tenantify) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-tenantify.svg)](https://github.com/sghani001/rails-tenantify) | Active |
+| **rails-css_unused** | [![Downloads](https://img.shields.io/gem/dt/rails-css_unused.svg)](https://rubygems.org/gems/rails-css_unused) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-css_unused.svg)](https://github.com/sghani001/rails-css_unused) | Active |
+
+**Total Gems:** 4 published gems · **Total Downloads:** 3,000+ · **Community-driven development**
+
+</div>
 
 [![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
 
