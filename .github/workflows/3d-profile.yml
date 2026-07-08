@@ -20,12 +20,11 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
       
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5  # Updated to v5
-        with:
-          commit-message: "Personal 3d Contributions images updated"
-          title: "Personal 3d Contributions images updated"
-          body: "This PR updates the 3D contribution profile images."
-          branch: update-3d-contrib
-          base: main
-          delete-branch: true
+      - name: Commit and Push Changes Directly to Main
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          # Only commit if there are actual changes to prevent workflow loops
+          git diff-index --quiet HEAD || git commit -m "chore: Auto-update 3D profile and snake animations [skip ci]"
+          git push origin main

@@ -1,5 +1,5 @@
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:1de9b6&height=200&section=header&text=Syed%20M.%20Ghani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Rails%20%E2%80%A2%20React%20%E2%80%A2%20SaaS&descAlignY=58&descSize=16&descColor=1de9b6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:1de9b6&height=200&section=header&text=Syed%20M.%20Ghani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Rails%20%E2%80%A2%20React%20%E2%80%A2%20AWS&descAlignY=58&descSize=16&descColor=1de9b6&animation=fadeIn" width="100%"/>
 
 <!-- FLOATING STICKER (DIMFLIX style) + INTRO -->
 <div align="center">
@@ -13,9 +13,9 @@
   </samp>
 </h3>
 
-<p><samp>「 Full-Stack Engineer · Building Production SaaS with Rails & React · Lahore 🇵🇰 」</samp></p>
+<p><samp>「 Full-Stack Engineer · Building Production SaaS with Rails, React & AWS · Lahore 🇵🇰 」</samp></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=1DE9B6&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+2%2B+YOE;Ruby+on+Rails+%E2%86%92+Production+SaaS+%F0%9F%9A%80;React.js+%7C+TailwindCSS+%7C+PostgreSQL;Learning+Python+%26+Django+for+AI+%F0%9F%A4%96;Open+to+Remote+%2F+Lahore+On-site" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=1DE9B6&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+2%2B+YOE;Ruby+on+Rails+%E2%86%92+Production+SaaS+%F0%9F%9A%80;React.js+%7C+Hotwire+%7C+PostgreSQL;AWS%3A+EC2+%C2%B7+RDS+%C2%B7+VPC+%C2%B7+IAM+%C2%B7+CloudWatch+%E2%98%81%EF%B8%8F;Open+to+Remote+%2F+Lahore+On-site" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -33,7 +33,10 @@
 </div>
 
 <!-- ANIMATED DIVIDER -->
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](#)
+<br/>
+
+---
+
 
 ## ⚡ About Me
 
@@ -46,105 +49,83 @@ class SyedGhani
   EDUCATION  = "B.Sc. CS — UET Lahore · GPA 3.1/4.0"
 
   STACK = {
-    backend:      ["Ruby on Rails 5/6/7", "REST API", "PostgreSQL", "MySQL", "Redis", "Sidekiq"],
+    backend:      ["Ruby on Rails 5/6/7/8", "REST API", "PostgreSQL", "MySQL", "Redis", "Sidekiq", "Solid Queue", "Hotwire (Turbo + Stimulus)", "ActionCable"],
     frontend:     ["React.js", "Redux Toolkit", "TailwindCSS", "React Query", "Vite", "JavaScript ES6+"],
+    cloud_devops: ["AWS (IAM, VPC, EC2, RDS, EBS, S3, CloudWatch)", "Docker", "GitHub Actions CI/CD", "Heroku"],
     payments:     ["Stripe", "Paddle", "Chargebee"],
-    integrations: ["HubSpot CRM", "Moodle LMS (SSO/LTI)", "Documenso (e-signatures)"],
-    open_source:  ["rails-persona 🎭 — Active behavioral analytics gem on RubyGems"],
+    integrations: ["HubSpot CRM", "Salesforce", "Moodle LMS (SSO/LTI)", "Documenso (e-signatures)", "QuickBooks Online"],
+    open_source:  ["rails-persona 🎭", "rails-guarddog 🐕", "rails-tenantify 🚀", "rails-css_unused 🧹"],
     rails_gems:   ["Devise", "Pundit", "Kaminari", "ActiveAdmin", "ActiveStorage", "Sidekiq"],
     learning:     ["Python 🐍", "Django", "AI Automation ✦ Backend Tools"]
   }
 
   def superpower
-    "Sole engineer on CinnaLab PRM — designed, built & shipped end-to-end 🚀"
+    "Sole engineer on CinnaLab PRM — designed, built, shipped & deployed to AWS end-to-end 🚀"
   end
 end
 ```
 
 <!-- ANIMATED DIVIDER -->
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
+<br/>
+
+---
+
 
 ## 🛠 Tech Stack
 
-<!-- SECTION 1: Languages via WidgetBox (verified supported list only) -->
 <div align="center">
 
-**Languages**
+**Languages & Frameworks**
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Hotwire](https://img.shields.io/badge/Hotwire-3D2C48?style=for-the-badge&logo=turbo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-[![Languages](https://github-widgetbox.vercel.app/api/skills?languages=ruby,python,javascript,html,css,postgresql,bash&includeNames=true&theme=darkmode)](https://github.com/sghani001)
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![EC2](https://img.shields.io/badge/EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![RDS](https://img.shields.io/badge/RDS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![VPC](https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</div>
+**Databases & Tools**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- SECTION 2: Frameworks via WidgetBox (only confirmed supported: react, tailwind, django — NOT rails, NOT redux) -->
-<div align="center">
-
-**Frameworks**
-
-[![My Frameworks](./skills.svg)](https://github.com/sghani001)
-
-</div>
-
-<!-- SECTION 3: Tools via WidgetBox (confirmed supported list) -->
-<div align="center">
-
-**Tools**
-
-[![Tools](https://github-widgetbox.vercel.app/api/skills?tools=git,redis,heroku,npm,vercel&includeNames=true&theme=darkmode)](https://github.com/sghani001)
-
-</div>
-
-<!-- SECTION 4: Software via WidgetBox -->
-<div align="center">
-
-**Software & IDE**
-
-[![Software](https://github-widgetbox.vercel.app/api/skills?software=vscode,linux,windows&includeNames=true&theme=darkmode)](https://github.com/sghani001)
-
-</div>
-
-<!-- SECTION 5: Full icon grid — devicons only, raw.githubusercontent for reliability -->
-<!-- Rails & Redux shown here since WidgetBox doesn't support them -->
-<div align="center">
-
-**Full Stack at a Glance**
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" title="Ruby"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" title="Ruby on Rails"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" title="Redux"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" title="TailwindCSS"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" title="Redis"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" title="Django"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" width="40" title="Heroku"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
-
-<br/><br/>
-
-<!-- Integrations & payment tools that have no devicon — use shields badges -->
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Sidekiq](https://img.shields.io/badge/Sidekiq-DC382D?style=flat-square&logo=ruby&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot_CRM-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Paddle](https://img.shields.io/badge/Paddle-003C3C?style=flat-square&logoColor=white)
-![Chargebee](https://img.shields.io/badge/Chargebee-FF6633?style=flat-square&logoColor=white)
-![Moodle](https://img.shields.io/badge/Moodle_LMS-F98012?style=flat-square&logo=moodle&logoColor=white)
-![Documenso](https://img.shields.io/badge/Documenso-000000?style=flat-square&logoColor=white)
-![RSpec](https://img.shields.io/badge/RSpec-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+**Integrations & Payments**
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Paddle](https://img.shields.io/badge/Paddle-003C3C?style=for-the-badge&logoColor=white)
+![Chargebee](https://img.shields.io/badge/Chargebee-FF6633?style=for-the-badge&logoColor=white)
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
+![Documenso](https://img.shields.io/badge/Documenso-000000?style=for-the-badge&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=quickbooks&logoColor=white)
 
 </div>
 
 <!-- ANIMATED DIVIDER -->
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
+<br/>
+
+---
+
+
 
 ## 📊 GitHub Stats
+
+> **Note:** Total Commits below includes private repos and all branches, refreshed live on every profile view (not a cached/scheduled snapshot).
 
 <div align="center">
 
@@ -156,7 +137,7 @@ end
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=sghani001&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=1de9b6&icon_color=FFA116&text_color=c9d1d9&bg_color=0f141c&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=sghani001&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=1de9b6&icon_color=FFA116&text_color=c9d1d9&bg_color=0f141c&include_all_commits=true&count_private=true" alt="GitHub Stats (live, includes private repos + all commits)"/>
 &nbsp;
 <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=sghani001&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&ring=1de9b6&fire=FFA116&currStreakLabel=1de9b6&sideLabels=1de9b6&background=0f141c" alt="Streak Stats"/>
 
@@ -170,22 +151,41 @@ end
 
 </div>
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](#)
+<br/>
+
+---
+
 
 ## ⚡ Contribution Activity
 
+<!-- 3D CONTRIBUTION PROFILE -->
 <div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/sghani001/sghani001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Syed Ghani 3D Contributions" width="100%"/>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sghani001&theme=github_dark" width="100%" alt="Contribution Summary"/>
+<br/>
+
+<sub>The contribution/commit *count* shown inside this chart is a scheduled snapshot (updated by a GitHub Action, not on every page load), so treat the live stats card above as the accurate number if the two ever disagree — this chart is here for the visual, not as the source of truth.</sub>
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sghani001&theme=react-dark&bg_color=0d1117&color=1de9b6&line=1de9b6&point=FFA116&area=true&area_color=1de9b6&hide_border=true&radius=16&custom_title=Contribution%20Activity)](https://github.com/sghani001)
+<!-- GITHUB SNAKE GAME ANIMATION -->
+<div align="center">
+  <br/>
+  <img src="https://raw.githubusercontent.com/sghani001/sghani001/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Animation (Dark)" width="100%">
+  <img src="https://raw.githubusercontent.com/sghani001/sghani001/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake Animation (Light)" width="100%">
+</div>
+
+<br/>
 
 </div>
 
 <!-- ANIMATED DIVIDER -->
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
+<br/>
+
+---
+
 
 ## 🧠 LeetCode Journey
 
@@ -218,48 +218,11 @@ end
 
 </div>
 
-<details>
-<summary><b>📋 Solutions List</b></summary>
+<!-- ANIMATED DIVIDER -->
 <br/>
 
-| # | Problem | Lang | Difficulty |
-|--:|---------|:----:|:---:|
-| 1 | [Two Sum](https://github.com/sghani001/Leetcode/blob/main/2._Two_sum.py) | 🐍 | 🟢 |
-| 2 | [Add Two Numbers](https://github.com/sghani001/Leetcode/blob/main/2._Add_Two%20_Num.py) | 🐍 | 🟡 |
-| 3 | [Longest Substring Without Repeating Chars](https://github.com/sghani001/Leetcode/blob/main/003_longest_substring_without_repeating_characters.rb) | 💎 | 🟡 |
-| 4 | [Median of Two Sorted Arrays](https://github.com/sghani001/Leetcode/blob/main/004_median_of_two_sorted_arrays.rb) | 💎 | 🔴 |
-| 4 | [Median of Two Sorted Arrays](https://github.com/sghani001/Leetcode/blob/main/4._Median_of_Two_Sorted_Arrays.py) | 🐍 | 🔴 |
-| 5 | [Longest Palindromic Substring](https://github.com/sghani001/Leetcode/blob/main/005_longest_palindromic_substring.rb) | 💎 | 🟡 |
-| 6 | [Zigzag Conversion](https://github.com/sghani001/Leetcode/blob/main/006_zigzag_conversion.rb) | 💎 | 🟡 |
-| 7 | [Reverse Integer](https://github.com/sghani001/Leetcode/blob/main/007_reverse_integer.rb) | 💎 | 🟡 |
-| 8 | [String to Integer (atoi)](https://github.com/sghani001/Leetcode/blob/main/008_string_to_integer_atoi.rb) | 💎 | 🟡 |
-| 9 | [Palindrome Number](https://github.com/sghani001/Leetcode/blob/main/9._Palindrome_Number.py) | 🐍 | 🟢 |
-| 10 | [Regular Expression Matching](https://github.com/sghani001/Leetcode/blob/main/010_regular_expression_matching.rb) | 💎 | 🔴 |
-| 11 | [Container With Most Water](https://github.com/sghani001/Leetcode/blob/main/11.%20Container%20With%20Most%20Water.py) | 🐍 | 🟡 |
-| 12 | [Integer to Roman](https://github.com/sghani001/Leetcode/blob/main/012_integer_to_roman.rb) | 💎 | 🟡 |
-| 13 | [Roman to Integer](https://github.com/sghani001/Leetcode/blob/main/13.%20Roman%20to%20Integer.py) | 🐍 | 🟢 |
-| 14 | [Longest Common Prefix](https://github.com/sghani001/Leetcode/blob/main/14.%20Longest%20Common%20Prefix.py) | 🐍 | 🟢 |
-| 15 | [3Sum](https://github.com/sghani001/Leetcode/blob/main/15.%203Sum.py) | 🐍 | 🟡 |
-| 16 | [3Sum Closest](https://github.com/sghani001/Leetcode/blob/main/016_3sum_closest.rb) | 💎 | 🟡 |
-| 17 | [Letter Combinations](https://github.com/sghani001/Leetcode/blob/main/017_letter_combinations.rb) | 💎 | 🟡 |
-| 20 | [Valid Parentheses](https://github.com/sghani001/Leetcode/blob/main/20.%20Valid%20Parentheses.py) | 🐍 | 🟢 |
-| 21 | [Merge Two Sorted Lists](https://github.com/sghani001/Leetcode/blob/main/21.%20Merge%20Two%20Sorted%20Lists.py) | 🐍 | 🟢 |
-| 23 | [Merge K Sorted Lists](https://github.com/sghani001/Leetcode/blob/main/023_merge_k_sorted_lists.rb) | 💎 | 🔴 |
-| 25 | [Reverse Nodes in K-Group](https://github.com/sghani001/Leetcode/blob/main/025_reverse_nodes_in_k_group.rb) | 💎 | 🔴 |
-| 26 | [Remove Duplicates from Sorted Array](https://github.com/sghani001/Leetcode/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array.py) | 🐍 | 🟢 |
-| 27 | [Remove Element](https://github.com/sghani001/Leetcode/blob/main/27.%20Remove%20Element.py) | 🐍 | 🟢 |
-| 28 | [Find Index of First Occurrence](https://github.com/sghani001/Leetcode/blob/main/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.py) | 🐍 | 🟢 |
-| 30 | [Substring with Concatenation of All Words](https://github.com/sghani001/Leetcode/blob/main/030_substring_with_concatenation_of_all_words.rb) | 💎 | 🔴 |
-| 66 | [Plus One](https://github.com/sghani001/Leetcode/blob/main/066_plus_one.rb) | 💎 | 🟢 |
-| 88 | [Merge Sorted Array](https://github.com/sghani001/Leetcode/blob/main/088_merge_sorted_array.rb) | 💎 | 🟢 |
-| 136 | [Single Number](https://github.com/sghani001/Leetcode/blob/main/136_single_number.rb) | 💎 | 🟢 |
+---
 
-> 💎 Ruby · 🐍 Python · [→ Full Repo](https://github.com/sghani001/Leetcode)
-
-</details>
-
-<!-- ANIMATED DIVIDER -->
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
 
 ## 🚀 Experience
 
@@ -276,13 +239,13 @@ end
 
 **🤖 CinnaLab PRM** &nbsp;·&nbsp; *Sole Engineer*
 
-> AI-powered Partner Relationship Management · Full product ownership from design to production · HubSpot CRM (bi-directional sync) · Moodle LMS (SSO/LTI) · Documenso (e-signatures) · Stripe + Paddle + Chargebee billing · Multi-role RBAC with Devise + Pundit · Sidekiq background jobs with retry logic · ActiveAdmin dashboards · RSpec + FactoryBot test coverage
+> AI-powered Partner Relationship Management · Full product ownership from design to production · HubSpot & Salesforce CRM (bi-directional sync) · Moodle LMS (SSO/LTI) · Documenso (e-signatures) · Stripe + Paddle + Chargebee billing · Multi-role RBAC with Devise + Pundit · Sidekiq background jobs with retry logic · ActiveAdmin dashboards · RSpec + FactoryBot test coverage
 
 <br/>
 
 **🏈 Intercollegiate** &nbsp;·&nbsp; *Full-Stack*
 
-> 2,500+ college athletics job listings · Multi-dimensional search (sport, division, conference, school, salary) · PostgreSQL query optimisation · Sidekiq email alerting · Kaminari pagination · ActiveAdmin recruiter tooling
+> 2,500+ college athletics job listings · Multi-dimensional search (sport, division, conference, school, salary) · PostgreSQL query optimisation (40% faster) · Sidekiq email alerting · Kaminari pagination · ActiveAdmin recruiter tooling · Turbo Frames/Streams for real-time filtering
 
 <br/>
 
@@ -300,7 +263,7 @@ end
 
 **📊 Controllr / Monthend** &nbsp;·&nbsp; *Full-Stack*
 
-> Month-end finance SaaS · Devise auth + Google OAuth · Multi-step onboarding · API design & core product features
+> Month-end finance SaaS · Devise auth + Google OAuth · QuickBooks Online bi-directional sync · Multi-step onboarding · Turbo Streams for live table updates
 
 <br/>
 
@@ -315,13 +278,74 @@ end
 > Full-stack client features · Code reviews · Daily standups · Live deployment support
 
 <!-- ANIMATED DIVIDER -->
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](#)
+<br/>
 
-## 🎯 Projects
+---
 
-**🌐 [Personal Portfolio](https://syedghani.is-a.dev/)** &nbsp;·&nbsp; `React.js · TailwindCSS · Framer Motion` &nbsp;·&nbsp; *[Live Site](https://syedghani.is-a.dev/)*
 
-> My premier frontend deployment featuring an interactive, fully responsive modern portfolio. Built with slick user experiences, modular React components, and optimized performance to showcase my engineering journey.
+## 🎯 Featured Projects
+
+<table width="100%">
+  <tr>
+    <!-- TASK MANAGER - NEW! -->
+    <td width="50%" valign="top">
+      <h3>✅ task-manager-rails-aws <img src="https://img.shields.io/badge/AWS_Deployed-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Deployed"/></h3>
+      <a href="https://github.com/sghani001/task_manager_rails_aws"><b>View Repository</b></a>
+      <br/><br/>
+      <p>Real-time task manager built with <b>Rails 8 + Hotwire</b> (Turbo Streams over ActionCable, no React, no client-side JS state) plus a background job that pushes live UI updates on completion. Shipped with a <b>full AWS deployment guide</b> — both a click-through <b>Console (GUI)</b> path and a scripted <b>AWS CLI/IaC</b> path — provisioning VPC-scoped EC2 + RDS PostgreSQL with Docker, staying inside Free Tier ($0 cost).</p>
+      <code>Rails 8</code> &nbsp; <code>Hotwire</code> &nbsp; <code>Solid Queue</code> &nbsp; <code>Docker</code> &nbsp; <code>AWS (EC2/RDS/VPC/IAM)</code>
+    </td>
+    <!-- RAILS-GUARDDOG -->
+    <td width="50%" valign="top">
+      <h3>🐕 rails-guarddog <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-guarddog.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
+      <a href="https://github.com/sghani001/rails-guarddog"><b>View Repository</b></a> &nbsp;·&nbsp;
+      <a href="https://rubygems.org/gems/rails-guarddog"><b>RubyGems</b></a>
+      <br/><br/>
+      <p>🚀 <b>1,300+ downloads in 24 hours!</b> Production-grade security scanner for Rails apps. Detects vulnerabilities Brakeman misses: AI/LLM injection, DoS/ReDoS patterns, supply chain typosquatting, IDOR gaps, and more. 12 comprehensive security checkers with CWE/OWASP mappings.</p>
+      <code>Ruby</code> &nbsp; <code>Security</code> &nbsp; <code>AST Analysis</code> &nbsp; <code>Production Ready</code>
+    </td>
+  </tr>
+  <tr>
+    <!-- RAILS-PERSONA -->
+    <td width="50%" valign="top">
+      <h3>🎭 rails-persona <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-persona.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
+      <a href="https://github.com/sghani001/rails-persona"><b>View Repository</b></a> &nbsp;·&nbsp;
+      <a href="https://rubygems.org/gems/rails-persona"><b>RubyGems</b></a>
+      <br/><br/>
+      <p>Model-level behavioral analytics engine for Rails. Tracks user actions, analyzes onboarding friction, and handles heavy payloads using bulk database inserts and Sidekiq background jobs natively with zero external dependencies.</p>
+      <code>Ruby</code> &nbsp; <code>Rails Engine</code> &nbsp; <code>Sidekiq</code>
+    </td>
+    <!-- RAILS-TENANTIFY -->
+    <td width="50%" valign="top">
+      <h3>🚀 rails-tenantify <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-tenantify.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
+      <a href="https://github.com/sghani001/rails-tenantify"><b>View Repository</b></a> &nbsp;·&nbsp;
+      <a href="https://rubygems.org/gems/rails-tenantify"><b>RubyGems</b></a>
+      <br/><br/>
+      <p>Lightweight multi-tenancy infrastructure for SaaS applications. Automates sub-domain/request-based routing, secure database isolation scoping, and streamlined tenant onboarding workflows without the bloat of heavy legacy packages.</p>
+      <code>Ruby on Rails</code> &nbsp; <code>SaaS Architecture</code>
+    </td>
+  </tr>
+  <tr>
+    <!-- RAILS-CSS_UNUSED -->
+    <td width="50%" valign="top">
+      <h3>🧹 rails-css_unused <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-css_unused.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
+      <a href="https://github.com/sghani001/rails-css_unused"><b>View Repository</b></a> &nbsp;·&nbsp;
+      <a href="https://rubygems.org/gems/rails-css_unused"><b>RubyGems</b></a>
+      <br/><br/>
+      <p>Performance-focused static analysis tool. Scans your views, templates, and view components to locate and strip dead, unused CSS classes blocking your asset pipeline payload. Perfect for refactoring large legacy codebases.</p>
+      <code>Ruby</code> &nbsp; <code>Static Analysis</code> &nbsp; <code>Asset Pipeline</code>
+    </td>
+    <!-- PORTFOLIO -->
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio <img src="https://img.shields.io/badge/Status-Live-1de9b6?style=flat-square" alt="Status Live"/></h3>
+      <a href="https://github.com/sghani001/personal_portfolio"><b>View Repository</b></a> &nbsp;·&nbsp;
+      <a href="https://syedghani.is-a.dev/"><b>Live Site</b></a>
+      <br/><br/>
+      <p>Flagship frontend deployment showcasing interactive UI milestones. Built using modular React components, smooth layout transitions via Framer Motion, and highly optimized performance for an elite user experience.</p>
+      <code>React.js</code> &nbsp; <code>TailwindCSS</code> &nbsp; <code>Framer Motion</code>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -353,32 +377,32 @@ end
 
 > 47 problems solved · 74.6% acceptance rate · Ruby + Python implementations
 
+<!-- ANIMATED DIVIDER -->
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎭 Open Source Gem</h3>
-      <a href="https://github.com/sghani001/rails-persona"><b>rails-persona</b></a>
-      <p>Model-level behavioral analytics for Rails. Track user actions, query inactivity, and build engagement leaderboards natively in your DB with zero external dependencies.</p>
-      <code>Ruby</code> &nbsp; <code>Rails</code> &nbsp; <code>RubyGems</code>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🚀 Backend Architecture</h3>
-      <a href="https://github.com/sghani001/Online_Exam_System"><b>Online_Exam_System</b></a>
-      <p>Robust multi-role RBAC examinations suite utilizing clean Rails design patterns, Devise, Pundit, and complete RSpec test coverages.</p>
-      <code>Ruby on Rails</code> &nbsp; <code>RSpec</code>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌐 Featured Frontend</h3>
-      <a href="https://syedghani.is-a.dev/"><b>personal_portfolio</b></a>
-      <p>Flagship React application showcasing interactive UI milestones. Polished UX built with Framer Motion and optimized for speed.</p>
-      <code>React.js</code> &nbsp; <code>TailwindCSS</code>
-    </td>
-  </tr>
-</table>
+---
 
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](#)
+
+### 📊 Open Source Impact
+
+<div align="center">
+
+| Gem | Downloads (live) | Stars (live) | Status |
+|-----|-----------|-------|--------|
+| **rails-guarddog** | [![Downloads](https://img.shields.io/gem/dt/rails-guarddog.svg)](https://rubygems.org/gems/rails-guarddog) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-guarddog.svg)](https://github.com/sghani001/rails-guarddog) | 🔥 Viral Launch |
+| **rails-persona** | [![Downloads](https://img.shields.io/gem/dt/rails-persona.svg)](https://rubygems.org/gems/rails-persona) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-persona.svg)](https://github.com/sghani001/rails-persona) | ⭐ Active |
+| **rails-tenantify** | [![Downloads](https://img.shields.io/gem/dt/rails-tenantify.svg)](https://rubygems.org/gems/rails-tenantify) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-tenantify.svg)](https://github.com/sghani001/rails-tenantify) | Active |
+| **rails-css_unused** | [![Downloads](https://img.shields.io/gem/dt/rails-css_unused.svg)](https://rubygems.org/gems/rails-css_unused) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-css_unused.svg)](https://github.com/sghani001/rails-css_unused) | Active |
+
+*Badges above pull live from the RubyGems/GitHub APIs — no manually-typed totals, so this table can't go stale like a hardcoded number would.*
+
+</div>
+
+<!-- ANIMATED DIVIDER -->
+<br/>
+
+---
+
 
 ## 🏆 Achievements
 
@@ -389,56 +413,46 @@ end
 </div>
 
 <!-- ANIMATED DIVIDER -->
-[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](#)
+<br/>
+
+---
 
 
-## 📦 Open Source Contributions
+## 💬 Quote
 
-### 🎭 [rails-persona](https://github.com/sghani001/rails-persona) 
-[![Gem Version](https://img.shields.io/gem/v/rails-persona.svg?style=flat-square&color=1de9b6)](https://rubygems.org/gems/rails-persona)
-[![Gem Downloads](https://img.shields.io/gem/dt/rails-persona.svg?style=flat-square&color=FFA116)](https://rubygems.org/gems/rails-persona)
+<div align="center">
 
-> **Lightweight behavioral analytics engine for Ruby on Rails apps.** Track user activity, query onboarding friction, generate daily usage patterns, and build engagement leaderboards—all stored natively in your database. 
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="480" alt="Dev Quote"/>
 
-* **Zero External Services:** Keeps multi-tenant data internal, secure, and compliant.
-* **Asynchronous Execution:** Drop-in **Sidekiq** support to ensure high performance with zero request-cycle blocking.
-* **Optimized Storage:** Leverages bulk database inserts to manage intense analytics payloads effortlessly.
+</div>
 
-## 🤝 Open to &nbsp;·&nbsp; 💬 Quote &nbsp;·&nbsp; 📫 Contact
+<!-- ANIMATED DIVIDER -->
+<br/>
 
-<table width="100%" style="width: 100%; table-layout: fixed;">
+---
+
+
+## 🤝 Open to &nbsp;·&nbsp; 📫 Contact
+
+<table>
 <tr>
 
-<td width="35%" valign="top" align="left">
-<br/>
+<td valign="top" align="left">
 
 ### 🤝 Open to
 
 - **Remote roles** worldwide
 - **Lahore** on-site / hybrid
-- **Freelance** SaaS projects
+- **Freelance** SaaS + AWS deployment projects
 - **Open-source** collaboration
 </td>
 
-<td width="35%" align="center" valign="middle">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="100%" style="max-width: 240px;" alt="Dev Quote"/>
-
-</td>
-
-<td width="30%" valign="top" align="center">
-<br/>
+<td valign="top" align="left">
 
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/syed-m-ghani-357ba4234)
-
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1de9b6?style=for-the-badge&logo=vercel&logoColor=black)](https://syedghani.is-a.dev/)
-
-<br/>
-
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedghani001@gmail.com)
 
 </td>
@@ -449,7 +463,7 @@ end
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1de9b6,100:0a0e1a&height=120&section=footer" width="100%"/>
 
 <div align="center">
-<samp>⚡ Building production SaaS · Open to work · Lahore on-site · Remote worldwide</samp>
+<samp>⚡ Building production SaaS on AWS · Open to work · Lahore on-site · Remote worldwide</samp>
 <br/>
 <i>Star ⭐ the repos if they helped you!</i>
 </div>
