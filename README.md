@@ -1,5 +1,5 @@
 <!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:1de9b6&height=200&section=header&text=Syed%20M.%20Ghani&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Rails%20%E2%80%A2%20React%20%E2%80%A2%20AWS&descAlignY=58&descSize=16&descColor=1de9b6&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,35:1E1E1E,70:9A989A,100:E2C799&height=200&section=header&text=Syed%20M.%20Ghani&fontSize=52&fontColor=F3EFEA&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Rails%20%E2%80%A2%20React%20%E2%80%A2%20AWS&descAlignY=58&descSize=16&descColor=E2C799&animation=fadeIn" width="100%"/>
 
 <!-- FLOATING STICKER (DIMFLIX style) + INTRO -->
 <div align="center">
@@ -15,20 +15,20 @@
 
 <p><samp>「 Full-Stack Engineer · Building Production SaaS with Rails, React & AWS · Lahore 🇵🇰 」</samp></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=1DE9B6&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+2%2B+YOE;Ruby+on+Rails+%E2%86%92+Production+SaaS+%F0%9F%9A%80;React.js+%7C+Hotwire+%7C+PostgreSQL;AWS%3A+EC2+%C2%B7+RDS+%C2%B7+VPC+%C2%B7+IAM+%C2%B7+CloudWatch+%E2%98%81%EF%B8%8F;Open+to+Remote+%2F+Lahore+On-site" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=E2C799&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+2%2B+YOE;Ruby+on+Rails+%E2%86%92+Production+SaaS+%F0%9F%9A%80;React.js+%7C+Hotwire+%7C+PostgreSQL;AWS%3A+EC2+%C2%B7+RDS+%C2%B7+VPC+%C2%B7+IAM+%C2%B7+CloudWatch+%E2%98%81%EF%B8%8F;Open+to+Remote+%2F+Lahore+On-site" alt="Typing SVG"/>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/syed-m-ghani-357ba4234)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sghani001)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/syedghani/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1de9b6?style=for-the-badge&logo=vercel&logoColor=black)](https://syedghani.is-a.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D97B3F?style=for-the-badge&logo=vercel&logoColor=white)](https://syedghani.is-a.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedghani001@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sghani001&label=PROFILE+VIEWS&color=1de9b6&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/sghani001?label=Followers&style=flat-square&color=1de9b6)](https://github.com/sghani001)
+![Profile Views](https://komarev.com/ghpvc/?username=sghani001&label=PROFILE+VIEWS&color=D97B3F&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/sghani001?label=Followers&style=flat-square&color=D97B3F)](https://github.com/sghani001)
 
 </div>
 
@@ -137,9 +137,9 @@ end
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=sghani001&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=1de9b6&icon_color=FFA116&text_color=c9d1d9&bg_color=0f141c&include_all_commits=true&count_private=true" alt="GitHub Stats (live, includes private repos + all commits)"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=sghani001&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&icon_color=D97B3F&text_color=F3EFEA&bg_color=161311&include_all_commits=true&count_private=true" alt="GitHub Stats (live, includes private repos + all commits)"/>
 &nbsp;
-<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=sghani001&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&ring=1de9b6&fire=FFA116&currStreakLabel=1de9b6&sideLabels=1de9b6&background=0f141c" alt="Streak Stats"/>
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=sghani001&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&ring=E2C799&fire=D97B3F&currStreakLabel=E2C799&sideLabels=E2C799&background=161311" alt="Streak Stats"/>
 
 </div>
 
@@ -147,7 +147,7 @@ end
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sghani001&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=1de9b6&text_color=c9d1d9&bg_color=0f141c&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sghani001&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&text_color=F3EFEA&bg_color=161311&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -202,19 +202,19 @@ end
 
 <div align="center">
 
-![Array](https://img.shields.io/badge/◉◉◉◉◉_Array-1d4ed8?style=flat-square)
-![String](https://img.shields.io/badge/◉◉◉◉_String-7c3aed?style=flat-square)
-![Two Pointers](https://img.shields.io/badge/◉◉◉_Two_Pointers-0891b2?style=flat-square)
-![Hash Map](https://img.shields.io/badge/◉◉◉_Hash_Map-059669?style=flat-square)
-![Math](https://img.shields.io/badge/◉◉◉_Math-d97706?style=flat-square)
-![Linked List](https://img.shields.io/badge/◉◉_Linked_List-dc2626?style=flat-square)
-![Dynamic Prog](https://img.shields.io/badge/◉◉_Dynamic_Prog-7c3aed?style=flat-square)
-![Sliding Window](https://img.shields.io/badge/◉◉_Sliding_Window-0891b2?style=flat-square)
-![Binary Search](https://img.shields.io/badge/◉_Binary_Search-059669?style=flat-square)
-![Stack](https://img.shields.io/badge/◉_Stack-d97706?style=flat-square)
-![Recursion](https://img.shields.io/badge/◉_Recursion-1d4ed8?style=flat-square)
-![Sorting](https://img.shields.io/badge/◉_Sorting-dc2626?style=flat-square)
-![Divide & Conquer](https://img.shields.io/badge/◉_Divide_%26_Conquer-0891b2?style=flat-square)
+![Array](https://img.shields.io/badge/◉◉◉◉◉_Array-D97B3F?style=flat-square)
+![String](https://img.shields.io/badge/◉◉◉◉_String-E2C799?style=flat-square&labelColor=332E29&color=E2C799)
+![Two Pointers](https://img.shields.io/badge/◉◉◉_Two_Pointers-D97B3F?style=flat-square)
+![Hash Map](https://img.shields.io/badge/◉◉◉_Hash_Map-8FAE7F?style=flat-square)
+![Math](https://img.shields.io/badge/◉◉◉_Math-E2C799?style=flat-square&labelColor=332E29&color=E2C799)
+![Linked List](https://img.shields.io/badge/◉◉_Linked_List-D97B3F?style=flat-square)
+![Dynamic Prog](https://img.shields.io/badge/◉◉_Dynamic_Prog-8FAE7F?style=flat-square)
+![Sliding Window](https://img.shields.io/badge/◉◉_Sliding_Window-D97B3F?style=flat-square)
+![Binary Search](https://img.shields.io/badge/◉_Binary_Search-E2C799?style=flat-square&labelColor=332E29&color=E2C799)
+![Stack](https://img.shields.io/badge/◉_Stack-8FAE7F?style=flat-square)
+![Recursion](https://img.shields.io/badge/◉_Recursion-D97B3F?style=flat-square)
+![Sorting](https://img.shields.io/badge/◉_Sorting-E2C799?style=flat-square&labelColor=332E29&color=E2C799)
+![Divide & Conquer](https://img.shields.io/badge/◉_Divide_%26_Conquer-8FAE7F?style=flat-square)
 
 </div>
 
@@ -228,10 +228,10 @@ end
 
 <div align="center">
 
-![Company](https://img.shields.io/badge/Blackstack_Software_Solutions-0d1117?style=for-the-badge&logoColor=white)
-![Role](https://img.shields.io/badge/Software_Engineer-1de9b6?style=for-the-badge&logoColor=black)
-![Duration](https://img.shields.io/badge/Aug_2024–May_2026-21262d?style=for-the-badge)
-![Location](https://img.shields.io/badge/Lahore_🇵🇰-21262d?style=for-the-badge)
+![Company](https://img.shields.io/badge/Blackstack_Software_Solutions-161311?style=for-the-badge&logoColor=white)
+![Role](https://img.shields.io/badge/Software_Engineer-E2C799?style=for-the-badge&logoColor=161311)
+![Duration](https://img.shields.io/badge/Aug_2024–May_2026-332E29?style=for-the-badge)
+![Location](https://img.shields.io/badge/Lahore_🇵🇰-332E29?style=for-the-badge)
 
 </div>
 
@@ -297,7 +297,7 @@ end
     </td>
     <!-- RAILS-GUARDDOG -->
     <td width="50%" valign="top">
-      <h3>🐕 rails-guarddog <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-guarddog.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
+      <h3>🐕 rails-guarddog <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-guarddog.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
       <a href="https://github.com/sghani001/rails-guarddog"><b>View Repository</b></a> &nbsp;·&nbsp;
       <a href="https://rubygems.org/gems/rails-guarddog"><b>RubyGems</b></a>
       <br/><br/>
@@ -308,7 +308,7 @@ end
   <tr>
     <!-- RAILS-PERSONA -->
     <td width="50%" valign="top">
-      <h3>🎭 rails-persona <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-persona.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
+      <h3>🎭 rails-persona <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-persona.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
       <a href="https://github.com/sghani001/rails-persona"><b>View Repository</b></a> &nbsp;·&nbsp;
       <a href="https://rubygems.org/gems/rails-persona"><b>RubyGems</b></a>
       <br/><br/>
@@ -317,7 +317,7 @@ end
     </td>
     <!-- RAILS-TENANTIFY -->
     <td width="50%" valign="top">
-      <h3>🚀 rails-tenantify <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-tenantify.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
+      <h3>🚀 rails-tenantify <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-tenantify.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
       <a href="https://github.com/sghani001/rails-tenantify"><b>View Repository</b></a> &nbsp;·&nbsp;
       <a href="https://rubygems.org/gems/rails-tenantify"><b>RubyGems</b></a>
       <br/><br/>
@@ -328,7 +328,7 @@ end
   <tr>
     <!-- RAILS-CSS_UNUSED -->
     <td width="50%" valign="top">
-      <h3>🧹 rails-css_unused <img src="https://img.shields.io/badge/Open%20Source-1de9b6?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-css_unused.svg?style=flat-square&color=FFA116" alt="Gem Version"/></h3>
+      <h3>🧹 rails-css_unused <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-css_unused.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
       <a href="https://github.com/sghani001/rails-css_unused"><b>View Repository</b></a> &nbsp;·&nbsp;
       <a href="https://rubygems.org/gems/rails-css_unused"><b>RubyGems</b></a>
       <br/><br/>
@@ -337,7 +337,7 @@ end
     </td>
     <!-- PORTFOLIO -->
     <td width="50%" valign="top">
-      <h3>🌐 Personal Portfolio <img src="https://img.shields.io/badge/Status-Live-1de9b6?style=flat-square" alt="Status Live"/></h3>
+      <h3>🌐 Personal Portfolio <img src="https://img.shields.io/badge/Status-Live-D97B3F?style=flat-square" alt="Status Live"/></h3>
       <a href="https://github.com/sghani001/personal_portfolio"><b>View Repository</b></a> &nbsp;·&nbsp;
       <a href="https://syedghani.is-a.dev/"><b>Live Site</b></a>
       <br/><br/>
@@ -389,10 +389,10 @@ end
 
 | Gem | Downloads (live) | Stars (live) | Status |
 |-----|-----------|-------|--------|
-| **rails-guarddog** | [![Downloads](https://img.shields.io/gem/dt/rails-guarddog.svg)](https://rubygems.org/gems/rails-guarddog) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-guarddog.svg)](https://github.com/sghani001/rails-guarddog) | 🔥 Viral Launch |
-| **rails-persona** | [![Downloads](https://img.shields.io/gem/dt/rails-persona.svg)](https://rubygems.org/gems/rails-persona) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-persona.svg)](https://github.com/sghani001/rails-persona) | ⭐ Active |
-| **rails-tenantify** | [![Downloads](https://img.shields.io/gem/dt/rails-tenantify.svg)](https://rubygems.org/gems/rails-tenantify) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-tenantify.svg)](https://github.com/sghani001/rails-tenantify) | Active |
-| **rails-css_unused** | [![Downloads](https://img.shields.io/gem/dt/rails-css_unused.svg)](https://rubygems.org/gems/rails-css_unused) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-css_unused.svg)](https://github.com/sghani001/rails-css_unused) | Active |
+| **rails-guarddog** | [![Downloads](https://img.shields.io/gem/dt/rails-guarddog.svg?color=D97B3F)](https://rubygems.org/gems/rails-guarddog) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-guarddog.svg?color=E2C799)](https://github.com/sghani001/rails-guarddog) | 🔥 Viral Launch |
+| **rails-persona** | [![Downloads](https://img.shields.io/gem/dt/rails-persona.svg?color=D97B3F)](https://rubygems.org/gems/rails-persona) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-persona.svg?color=E2C799)](https://github.com/sghani001/rails-persona) | ⭐ Active |
+| **rails-tenantify** | [![Downloads](https://img.shields.io/gem/dt/rails-tenantify.svg?color=D97B3F)](https://rubygems.org/gems/rails-tenantify) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-tenantify.svg?color=E2C799)](https://github.com/sghani001/rails-tenantify) | Active |
+| **rails-css_unused** | [![Downloads](https://img.shields.io/gem/dt/rails-css_unused.svg?color=D97B3F)](https://rubygems.org/gems/rails-css_unused) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-css_unused.svg?color=E2C799)](https://github.com/sghani001/rails-css_unused) | Active |
 
 *Badges above pull live from the RubyGems/GitHub APIs — no manually-typed totals, so this table can't go stale like a hardcoded number would.*
 
@@ -408,7 +408,7 @@ end
 
 <div align="center">
 
-[![Trophies](https://github-trophies.vercel.app/?username=sghani001&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/sghani001)
+[![Trophies](https://github-trophies.vercel.app/?username=sghani001&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/sghani001)
 
 </div>
 
@@ -452,7 +452,7 @@ end
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/syed-m-ghani-357ba4234)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1de9b6?style=for-the-badge&logo=vercel&logoColor=black)](https://syedghani.is-a.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-D97B3F?style=for-the-badge&logo=vercel&logoColor=white)](https://syedghani.is-a.dev/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedghani001@gmail.com)
 
 </td>
@@ -460,7 +460,7 @@ end
 </tr>
 </table>
 <!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1de9b6,100:0a0e1a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E2C799,30:9A989A,65:1E1E1E,100:121212&height=120&section=footer" width="100%"/>
 
 <div align="center">
 <samp>⚡ Building production SaaS on AWS · Open to work · Lahore on-site · Remote worldwide</samp>
