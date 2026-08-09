@@ -15,7 +15,7 @@
 
 <p><samp>「 Full-Stack Engineer · Building Production SaaS with Rails, React & AWS · Lahore 🇵🇰 」</samp></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=E2C799&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+2%2B+YOE;Ruby+on+Rails+%E2%86%92+Production+SaaS+%F0%9F%9A%80;React.js+%7C+Hotwire+%7C+PostgreSQL;AWS%3A+EC2+%C2%B7+RDS+%C2%B7+VPC+%C2%B7+IAM+%C2%B7+CloudWatch+%E2%98%81%EF%B8%8F;Open+to+Remote+%2F+Lahore+On-site" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=E2C799&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+2%2B+YOE;Ruby+on+Rails+%E2%86%92+Production+SaaS+%F0%9F%9A%80;React.js+%7C+Hotwire+%7C+PostgreSQL;AWS%3A+EC2+ECR+ECS+%C2%B7+RDS+%C2%B7+VPC+%C2%B7+IAM+%C2%B7+CloudWatch+%E2%98%81%EF%B8%8F;Open+to+Remote+%2F+Lahore+On-site" alt="Typing SVG"/>
 
 <br/><br/>
 
