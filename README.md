@@ -401,19 +401,6 @@ end
 <!-- ANIMATED DIVIDER -->
 <br/>
 
----
-
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![Trophies](https://github-trophies.vercel.app/?username=sghani001&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/sghani001)
-
-</div>
-
-<!-- ANIMATED DIVIDER -->
-<br/>
 
 ---
 
