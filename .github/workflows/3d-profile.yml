@@ -5,26 +5,28 @@ on:
     - cron: "0 */18 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Fetch full history to avoid conflicts
-      
+          fetch-depth: 0
+
       - uses: yoshi389111/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: ${{ github.repository_count }}
-      
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          username: ${{ github.repository_owner }}
+
       - name: Commit and Push Changes Directly to Main
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          # Only commit if there are actual changes to prevent workflow loops
-          git diff-index --quiet HEAD || git commit -m "chore: Auto-update 3D profile and snake animations [skip ci]"
+          git diff-index --quiet HEAD || git commit -m "chore: Auto-update 3D profile contributions [skip ci]"
           git push origin main
