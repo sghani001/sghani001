@@ -20,7 +20,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: sghani001
 
       - name: Commit and Push Changes Directly to Main
         run: |
