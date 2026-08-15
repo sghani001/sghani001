@@ -20,15 +20,15 @@
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://pk.linkedin.com/in/syed-m-ghani-357ba4234)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sghani001)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-syedghani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/syedghani/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D97B3F?style=for-the-badge&logo=vercel&logoColor=white)](https://syedghani.is-a.dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedghani001@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sghani001&label=PROFILE+VIEWS&color=D97B3F&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/sghani001?label=Followers&style=flat-square&color=D97B3F)](https://github.com/sghani001)
+![Profile Views](https://komarev.com/ghpvc/?username=dev-syedghani&label=PROFILE+VIEWS&color=D97B3F&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/dev-syedghani?label=Followers&style=flat-square&color=D97B3F)](https://github.com/dev-syedghani)
 
 </div>
 
@@ -129,7 +129,7 @@ end
 
 <div align="center">
 
-[![Profile](https://github-widgetbox.vercel.app/api/profile?username=sghani001&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/sghani001)
+[![Profile](https://github-widgetbox.vercel.app/api/profile?username=dev-syedghani&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/dev-syedghani)
 
 </div>
 
@@ -137,9 +137,9 @@ end
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=sghani001&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&icon_color=D97B3F&text_color=F3EFEA&bg_color=161311&include_all_commits=true&count_private=true" alt="GitHub Stats (live, includes private repos + all commits)"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=dev-syedghani&show_icons=true&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&icon_color=D97B3F&text_color=F3EFEA&bg_color=161311&include_all_commits=true&count_private=true" alt="GitHub Stats (live, includes private repos + all commits)"/>
 &nbsp;
-<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=sghani001&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&ring=E2C799&fire=D97B3F&currStreakLabel=E2C799&sideLabels=E2C799&background=161311" alt="Streak Stats"/>
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=dev-syedghani&theme=github-dark-blue&hide_border=true&border_radius=16&date_format=j%20M%5B%20Y%5D&ring=E2C799&fire=D97B3F&currStreakLabel=E2C799&sideLabels=E2C799&background=161311" alt="Streak Stats"/>
 
 </div>
 
@@ -147,7 +147,7 @@ end
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sghani001&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&text_color=F3EFEA&bg_color=161311&langs_count=8" alt="Top Languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-syedghani&layout=compact&theme=github_dark&hide_border=true&border_radius=16&title_color=E2C799&text_color=F3EFEA&bg_color=161311&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -161,7 +161,7 @@ end
 <!-- 3D CONTRIBUTION PROFILE -->
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/sghani001/sghani001/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Syed Ghani 3D Contributions" width="100%"/>
+  <img src="https://raw.githubusercontent.com/dev-syedghani/dev-syedghani/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Syed Ghani 3D Contributions" width="100%"/>
 </div>
 
 <br/>
@@ -173,8 +173,8 @@ end
 <!-- GITHUB SNAKE GAME ANIMATION -->
 <div align="center">
   <br/>
-  <img src="https://raw.githubusercontent.com/sghani001/sghani001/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Animation (Dark)" width="100%">
-  <img src="https://raw.githubusercontent.com/sghani001/sghani001/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake Animation (Light)" width="100%">
+  <img src="https://raw.githubusercontent.com/dev-syedghani/dev-syedghani/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake Animation (Dark)" width="100%">
+  <img src="https://raw.githubusercontent.com/dev-syedghani/dev-syedghani/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake Animation (Light)" width="100%">
 </div>
 
 <br/>
@@ -290,7 +290,7 @@ end
     <!-- TASK MANAGER - NEW! -->
     <td width="50%" valign="top">
       <h3>✅ task-manager-rails-aws <img src="https://img.shields.io/badge/AWS_Deployed-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Deployed"/></h3>
-      <a href="https://github.com/sghani001/task_manager_rails_aws"><b>View Repository</b></a>
+      <a href="https://github.com/dev-syedghani/task_manager_rails_aws"><b>View Repository</b></a>
       <br/><br/>
       <p>Real-time task manager built with <b>Rails 8 + Hotwire</b> (Turbo Streams over ActionCable, no React, no client-side JS state) plus a background job that pushes live UI updates on completion. Shipped with a <b>full AWS deployment guide</b> — both a click-through <b>Console (GUI)</b> path and a scripted <b>AWS CLI/IaC</b> path — provisioning VPC-scoped EC2 + RDS PostgreSQL with Docker, staying inside Free Tier ($0 cost).</p>
       <code>Rails 8</code> &nbsp; <code>Hotwire</code> &nbsp; <code>Solid Queue</code> &nbsp; <code>Docker</code> &nbsp; <code>AWS (EC2/RDS/VPC/IAM)</code>
@@ -298,7 +298,7 @@ end
     <!-- RAILS-GUARDDOG -->
     <td width="50%" valign="top">
       <h3>🐕 rails-guarddog <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-guarddog.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
-      <a href="https://github.com/sghani001/rails-guarddog"><b>View Repository</b></a> &nbsp;·&nbsp;
+      <a href="https://github.com/dev-syedghani/rails-guarddog"><b>View Repository</b></a> &nbsp;·&nbsp;
       <a href="https://rubygems.org/gems/rails-guarddog"><b>RubyGems</b></a>
       <br/><br/>
       <p>🚀 <b>1,300+ downloads in 24 hours!</b> Production-grade security scanner for Rails apps. Detects vulnerabilities Brakeman misses: AI/LLM injection, DoS/ReDoS patterns, supply chain typosquatting, IDOR gaps, and more. 12 comprehensive security checkers with CWE/OWASP mappings.</p>
@@ -309,7 +309,7 @@ end
     <!-- RAILS-PERSONA -->
     <td width="50%" valign="top">
       <h3>🎭 rails-persona <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-persona.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
-      <a href="https://github.com/sghani001/rails-persona"><b>View Repository</b></a> &nbsp;·&nbsp;
+      <a href="https://github.com/dev-syedghani/rails-persona"><b>View Repository</b></a> &nbsp;·&nbsp;
       <a href="https://rubygems.org/gems/rails-persona"><b>RubyGems</b></a>
       <br/><br/>
       <p>Model-level behavioral analytics engine for Rails. Tracks user actions, analyzes onboarding friction, and handles heavy payloads using bulk database inserts and Sidekiq background jobs natively with zero external dependencies.</p>
@@ -318,7 +318,7 @@ end
     <!-- RAILS-TENANTIFY -->
     <td width="50%" valign="top">
       <h3>🚀 rails-tenantify <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-tenantify.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
-      <a href="https://github.com/sghani001/rails-tenantify"><b>View Repository</b></a> &nbsp;·&nbsp;
+      <a href="https://github.com/dev-syedghani/rails-tenantify"><b>View Repository</b></a> &nbsp;·&nbsp;
       <a href="https://rubygems.org/gems/rails-tenantify"><b>RubyGems</b></a>
       <br/><br/>
       <p>Lightweight multi-tenancy infrastructure for SaaS applications. Automates sub-domain/request-based routing, secure database isolation scoping, and streamlined tenant onboarding workflows without the bloat of heavy legacy packages.</p>
@@ -329,7 +329,7 @@ end
     <!-- RAILS-CSS_UNUSED -->
     <td width="50%" valign="top">
       <h3>🧹 rails-css_unused <img src="https://img.shields.io/badge/Open%20Source-D97B3F?style=flat-square" alt="Open Source"/> <img src="https://img.shields.io/gem/v/rails-css_unused.svg?style=flat-square&color=E2C799" alt="Gem Version"/></h3>
-      <a href="https://github.com/sghani001/rails-css_unused"><b>View Repository</b></a> &nbsp;·&nbsp;
+      <a href="https://github.com/dev-syedghani/rails-css_unused"><b>View Repository</b></a> &nbsp;·&nbsp;
       <a href="https://rubygems.org/gems/rails-css_unused"><b>RubyGems</b></a>
       <br/><br/>
       <p>Performance-focused static analysis tool. Scans your views, templates, and view components to locate and strip dead, unused CSS classes blocking your asset pipeline payload. Perfect for refactoring large legacy codebases.</p>
@@ -338,7 +338,7 @@ end
     <!-- PORTFOLIO -->
     <td width="50%" valign="top">
       <h3>🌐 Personal Portfolio <img src="https://img.shields.io/badge/Status-Live-D97B3F?style=flat-square" alt="Status Live"/></h3>
-      <a href="https://github.com/sghani001/personal_portfolio"><b>View Repository</b></a> &nbsp;·&nbsp;
+      <a href="https://github.com/dev-syedghani/personal_portfolio"><b>View Repository</b></a> &nbsp;·&nbsp;
       <a href="https://syedghani.is-a.dev/"><b>Live Site</b></a>
       <br/><br/>
       <p>Flagship frontend deployment showcasing interactive UI milestones. Built using modular React components, smooth layout transitions via Framer Motion, and highly optimized performance for an elite user experience.</p>
@@ -355,25 +355,25 @@ end
 
 <br/>
 
-**📝 [Online Exam System](https://github.com/sghani001/Online_Exam_System)** &nbsp;·&nbsp; `Rails · Devise · Pundit · RSpec`
+**📝 [Online Exam System](https://github.com/dev-syedghani/Online_Exam_System)** &nbsp;·&nbsp; `Rails · Devise · Pundit · RSpec`
 
 > Multi-role RBAC exam platform (admin / teacher / student) · Full exam lifecycle state machine · Clean Rails architecture with real-world gem usage
 
 <br/>
 
-**✈️ [HOS Trip Planner](https://github.com/sghani001/hos-trip-planner)** &nbsp;·&nbsp; `Python · Django`
+**✈️ [HOS Trip Planner](https://github.com/dev-syedghani/hos-trip-planner)** &nbsp;·&nbsp; `Python · Django`
 
 > Hours-of-service compliant trip planner built with Django
 
 <br/>
 
-**💬 [WhatsApp Chat Analyzer](https://github.com/sghani001/Whatsapp_Analyzer)** &nbsp;·&nbsp; `Python · pandas · Matplotlib`
+**💬 [WhatsApp Chat Analyzer](https://github.com/dev-syedghani/Whatsapp_Analyzer)** &nbsp;·&nbsp; `Python · pandas · Matplotlib`
 
 > Parses raw WhatsApp exports → analytics suite: message frequency, word clouds, participant rankings, time-trend charts
 
 <br/>
 
-**💡 [LeetCode Solutions](https://github.com/sghani001/Leetcode)** &nbsp;·&nbsp; `Ruby · Python`
+**💡 [LeetCode Solutions](https://github.com/dev-syedghani/Leetcode)** &nbsp;·&nbsp; `Ruby · Python`
 
 > 47 problems solved · 74.6% acceptance rate · Ruby + Python implementations
 
@@ -389,10 +389,10 @@ end
 
 | Gem | Downloads (live) | Stars (live) | Status |
 |-----|-----------|-------|--------|
-| **rails-guarddog** | [![Downloads](https://img.shields.io/gem/dt/rails-guarddog.svg?color=D97B3F)](https://rubygems.org/gems/rails-guarddog) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-guarddog.svg?color=E2C799)](https://github.com/sghani001/rails-guarddog) | 🔥 Viral Launch |
-| **rails-persona** | [![Downloads](https://img.shields.io/gem/dt/rails-persona.svg?color=D97B3F)](https://rubygems.org/gems/rails-persona) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-persona.svg?color=E2C799)](https://github.com/sghani001/rails-persona) | ⭐ Active |
-| **rails-tenantify** | [![Downloads](https://img.shields.io/gem/dt/rails-tenantify.svg?color=D97B3F)](https://rubygems.org/gems/rails-tenantify) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-tenantify.svg?color=E2C799)](https://github.com/sghani001/rails-tenantify) | Active |
-| **rails-css_unused** | [![Downloads](https://img.shields.io/gem/dt/rails-css_unused.svg?color=D97B3F)](https://rubygems.org/gems/rails-css_unused) | [![Stars](https://img.shields.io/github/stars/sghani001/rails-css_unused.svg?color=E2C799)](https://github.com/sghani001/rails-css_unused) | Active |
+| **rails-guarddog** | [![Downloads](https://img.shields.io/gem/dt/rails-guarddog.svg?color=D97B3F)](https://rubygems.org/gems/rails-guarddog) | [![Stars](https://img.shields.io/github/stars/dev-syedghani/rails-guarddog.svg?color=E2C799)](https://github.com/dev-syedghani/rails-guarddog) | 🔥 Viral Launch |
+| **rails-persona** | [![Downloads](https://img.shields.io/gem/dt/rails-persona.svg?color=D97B3F)](https://rubygems.org/gems/rails-persona) | [![Stars](https://img.shields.io/github/stars/dev-syedghani/rails-persona.svg?color=E2C799)](https://github.com/dev-syedghani/rails-persona) | ⭐ Active |
+| **rails-tenantify** | [![Downloads](https://img.shields.io/gem/dt/rails-tenantify.svg?color=D97B3F)](https://rubygems.org/gems/rails-tenantify) | [![Stars](https://img.shields.io/github/stars/dev-syedghani/rails-tenantify.svg?color=E2C799)](https://github.com/dev-syedghani/rails-tenantify) | Active |
+| **rails-css_unused** | [![Downloads](https://img.shields.io/gem/dt/rails-css_unused.svg?color=D97B3F)](https://rubygems.org/gems/rails-css_unused) | [![Stars](https://img.shields.io/github/stars/dev-syedghani/rails-css_unused.svg?color=E2C799)](https://github.com/dev-syedghani/rails-css_unused) | Active |
 
 *Badges above pull live from the RubyGems/GitHub APIs — no manually-typed totals, so this table can't go stale like a hardcoded number would.*
 
